@@ -1,0 +1,1 @@
+* group cannot be used for authentication
