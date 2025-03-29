@@ -1,0 +1,213 @@
+<mxfile host="Electron" modified="2024-05-20T10:30:54.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="bEbFkc83squBs_5AqJdj" version="24.4.0" type="device">
+  <diagram name="CPU" id="fqGTB0q-6_HaP3qB9oc1">
+    <mxGraphModel dx="3326" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-1" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="50" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="110" y="320" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-3" value="程序1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="170" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-4" value="程序2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="270" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-5" value="程序3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="390" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-7" value="真实内存&lt;div&gt;4G&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="480" as="sourcePoint" />
+            <mxPoint x="-20" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-8" value="操作系统&lt;div&gt;（最高特权级）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="50" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-9" value="最低特权级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="210" y="450" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-13" value="虚拟内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-27" value="3G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="420" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-28" value="0G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="420" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;程序1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="465" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L5b8fPG_VmbN7cKi-mS_-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="599.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-38" value="操作系统&lt;div&gt;（最高特权级）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="50" y="570" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-39" value="最低特权级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="210" y="570" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-40" value="虚拟内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-41" value="3G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-42" value="0G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-43" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;程序2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="585" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-44" value="栈段1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-73" y="450" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-45" value="数据段1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-73" y="480" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-46" value="代码段1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-73" y="510" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-50" value="采用类Hash表，将不同进&lt;div&gt;程之间的地址进行隔离&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="410" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-52" value="栈段2" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-73" y="540" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-53" value="数据段2" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-73" y="570" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-54" value="代码段2" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-73" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L5b8fPG_VmbN7cKi-mS_-59" value="&lt;b&gt;划分特权级：0-3特权级逐步降低&lt;/b&gt;&lt;div&gt;&lt;b&gt;（在Linux中只用了0和3）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="245" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-1" value="根据以上推理：&lt;div&gt;1、程序的 特权级 保存在哪里？&lt;font color=&quot;#ff6666&quot;&gt;程序执行时，CPU执行的是代码，没有代码怎么可能修改数据&lt;/font&gt; ---&amp;gt;&amp;nbsp;&lt;font color=&quot;#ff6666&quot;&gt;CS寄存器&lt;/font&gt;&lt;/div&gt;&lt;div&gt;2、在访问的时候，需要一个特权级的校验，这个校验放在哪里？&lt;font color=&quot;#ff6666&quot;&gt;段的描述符&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="323" width="591" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-2" value="通过Intel i286，i386，i486的历史得知：&lt;div&gt;1、提供了&lt;b&gt;保护模式&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2、真32位机（寄存器、地址总线等均为32位）4GB&lt;/div&gt;&lt;div&gt;3、&lt;b&gt;虚拟内存&lt;/b&gt;（基于段）&lt;/div&gt;&lt;div&gt;4、&lt;b&gt;特权级&lt;/b&gt;&lt;/div&gt;&lt;div&gt;5、指令流水线&lt;/div&gt;&lt;div&gt;6、1级缓存&lt;/div&gt;&lt;div&gt;7、内存模型：&lt;b&gt;实模式&lt;/b&gt;和&lt;b&gt;保护模式&lt;/b&gt;&lt;/div&gt;&lt;div&gt;8、x87 FPU（浮点运算单元）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="50" y="69" width="291" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-5" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-185" y="913.5" width="530" height="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-6" value="保护" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-175" y="923.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-7" value="指令地址寄存器&lt;div&gt;（32 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-165" y="953.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-8" target="HM95s2w_xLYwBPBx5B2T-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-8" value="段寄存器&lt;div&gt;（16 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="953.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-165" y="1053.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-105" y="1053.5" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="1053.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="62" y="1053.5" width="53" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1053.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-14" value="查表的索引下标（假定当&lt;div&gt;前一定够用）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="963.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-17" value="1、表的首地址在哪里？换言之，我的段寄存器用于保存下标，我得找到这个表在哪里&lt;div&gt;再来一个寄存器，专门用于保存这个表的地址&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、表有几个？1个&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、段的地址会不会越界？段界限检查&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4、表谁放的？OS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、表谁来查？CPU&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6、表有多大？GDTR来决定：因为表需要一个首地址 + 长度&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7、表占多大内存？GDTR表项长度 * 每一项的描述大小&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-134" y="679" width="469" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="-102" y="450" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-19" value="段描述符（保存段的元数据信息）&lt;div&gt;：&lt;b&gt;段描述符表&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-296" y="520" width="198" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-20" target="L5b8fPG_VmbN7cKi-mS_-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-20" value="GDTR&lt;div&gt;（Globel Descriptor Table Register)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-372" y="619" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-23" target="HM95s2w_xLYwBPBx5B2T-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-23" target="HM95s2w_xLYwBPBx5B2T-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HM95s2w_xLYwBPBx5B2T-23" target="HM95s2w_xLYwBPBx5B2T-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-23" value="段寄存器&lt;div&gt;（16 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="563" y="901" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-25" target="HM95s2w_xLYwBPBx5B2T-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-25" value="通用段寄存器&lt;div&gt;（16 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="771" y="1024" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-26" target="HM95s2w_xLYwBPBx5B2T-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-26" value="代码段寄存器&lt;div&gt;（16 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="636" y="1024" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-27" target="HM95s2w_xLYwBPBx5B2T-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-27" value="数据段寄存器&lt;div&gt;（16 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="498" y="1024" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HM95s2w_xLYwBPBx5B2T-28" target="HM95s2w_xLYwBPBx5B2T-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-28" value="栈段寄存器&lt;div&gt;（16 bit）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="366" y="1024" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HM95s2w_xLYwBPBx5B2T-23" target="HM95s2w_xLYwBPBx5B2T-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-35" value="SS" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="393.5" y="1111" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-37" value="DS" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="525.5" y="1111" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-38" value="CS" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="663.5" y="1111" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-39" value="其他S" style="whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="798.5" y="1111" width="65" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HM95s2w_xLYwBPBx5B2T-43" value="实（直接操作物理地址）模式：&lt;span style=&quot;font-weight: normal;&quot;&gt;直接通过指令地址寄存器 + 段寄存器 = 真实物理地址&lt;/span&gt;&lt;div&gt;保护模式：&lt;span style=&quot;font-weight: normal;&quot;&gt;段寄存器 查表 + 指令地址寄存器 = 真实物理地址&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-754" y="918" width="465" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Ix-P-A8t7itouEyp3W-1" value="虚拟地址：&lt;span style=&quot;font-weight: normal;&quot;&gt;保护模式中，程序看到的指令地址寄存器中的值（你通过GCC、GDB等看到的那些地址）&lt;/span&gt;&lt;div&gt;线性地址：&lt;span style=&quot;font-weight: normal;&quot;&gt;保护模式中，程序的虚拟地址 + 段描述符的起始地址 = 线性地址&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-754" y="991" width="551" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="r5Ix-P-A8t7itouEyp3W-3" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;操作系统面向CPU编程，CPU厂商指导操作系统开发。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CPU为了满足各类操作系统的开发------同一个事情肯定提供了好多种不同的解决方案------具体实现由OS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;的开发者来决定&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-754" y="1056" width="565" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

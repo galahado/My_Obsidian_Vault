@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "09ac6cc5e5212c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0052bd2c40e6250c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697d4a4f2a49b1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chuanqi/99_Readwise/Books/A Song of Ice and Fire 02 - A Clash of Kings.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dde4e91cd2882e2f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f2c8a6bb9354d1fc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cdb96e6d97cb9e51",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dc604f87c81cafeb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "007c60f965c85f6f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a579efd2e8c6575c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4d628debc85715a2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Chuanqi/99_Readwise/Books/A Song of Ice and Fire 02 - A Clash of Kings.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3174a4f32474d4e5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Chuanqi/99_Readwise/Books/A Song of Ice and Fire 02 - A Clash of Kings.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3277e6892b1ef390",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Chuanqi/99_Readwise/Books/A Song of Ice and Fire 02 - A Clash of Kings.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "697d4a4f2a49b1e1",
+  "lastOpenFiles": [
+    "Chuanqi/99_Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Diagonally Dominant Matrix.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Rx = d.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Dependent.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Gauss-Jordan Elimination.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Projection.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/particular solution.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Basis.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Full Column Rank.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Matrix has more columns that rows.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Orthogonal.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Schur complement.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Orthonormal.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Zero Vector.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/matrix with n greater than m.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Symmetric Product.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Invertible.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/A = QR.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Using Adjacency Matrix to Count Walks of Certain Length.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Free Column.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Null Space.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Full Row Rank.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Ax = b.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Orthogonal Matrix.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Transpose.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/Orthogonal Complement.md",
+    "Chuanqi/20_Mathematics/Linear Algebra/02-Linear Equations and Matrix.canvas",
+    "Chuanqi/20_Mathematics/Linear Algebra/04-Orthogonality.canvas",
+    "Chuanqi/20_Mathematics/Linear Algebra",
+    "Chuanqi/20_Mathematics",
+    "Chuanqi/10_Computer Science",
+    "Chuanqi/01_Journal",
+    "Chuanqi/10_Computer Science/Computer Architecture/混沌学堂.drawio",
+    "Chuanqi/10_Computer Science/Computer Architecture/CISC vs. RISC.png",
+    "Chuanqi/10_Computer Science/Computer Architecture",
+    "Chuanqi/02_Tasks",
+    "Chuanqi/10_Computer Science/Computer Science.canvas",
+    "Chuanqi/10_Computer Science/Complier/编译原理.canvas",
+    "Chuanqi/10_Computer Science/Complier",
+    "Chuanqi/10_Computer Science/AWS/Network/VPC.png",
+    "Chuanqi/10_Computer Science/AWS/Foundation/Edge Location and Regional Edge Cache.png",
+    "Chuanqi/10_Computer Science/AWS/EC2",
+    "Chuanqi/10_Computer Science/AWS/Big Data",
+    "Chuanqi/10_Computer Science/AWS/AWS Cheet Sheet.jpg",
+    "Chuanqi/10_Computer Science/Programming/Java/Java Integer Types.png",
+    "Chuanqi/10_Computer Science/Programming/Java/Data Types.canvas",
+    "Chuanqi/10_Computer Science/AWS/Foundation/AWS Global Infrastructure.png",
+    "Chuanqi/10_Computer Science/AWS/IAM/Security Group.png",
+    "Chuanqi/10_Computer Science/AWS/IAM/IAM Authentication.png",
+    "Chuanqi/10_Computer Science/AWS/IAM/IAM Overview.png",
+    "Chuanqi/02_Mathematics/Linear Algebra/02-Linear Equations and Matrix.canvas",
+    "Chuanqi/02_Mathematics/Linear Algebra/04-Orthogonality.canvas"
+  ]
+}

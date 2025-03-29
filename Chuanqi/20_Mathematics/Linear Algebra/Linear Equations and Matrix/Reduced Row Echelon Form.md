@@ -1,0 +1,1 @@
+The reduced row echelon form R has all [[Pivot|Pivots]] = 1, with zeros above and below.

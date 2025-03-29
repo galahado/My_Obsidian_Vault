@@ -1,0 +1,2 @@
+[Book Reader Link](https://read.readwise.io/new/read/01jer03tf23p4ae5p2gyk6se97)
+[Solution Manual Reader Link](https://read.readwise.io/filter/category%3Apdf/split/triage_status/new/read/01jer03sgctv5twqq4by3ykmaw)

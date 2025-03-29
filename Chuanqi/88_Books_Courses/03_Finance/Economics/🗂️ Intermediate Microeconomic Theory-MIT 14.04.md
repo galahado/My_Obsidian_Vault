@@ -1,0 +1,2 @@
+[OCW Link](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/)
+[Bilibili Link](https://www.bilibili.com/video/BV1PRPie2EmC/?vd_source=c801aa3fac0e6e97b0df71f74a8b25bd&__readwiseLocation=)

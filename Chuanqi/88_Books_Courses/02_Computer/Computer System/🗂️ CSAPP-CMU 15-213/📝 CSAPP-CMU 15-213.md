@@ -1,0 +1,5 @@
+[Bilibili](https://www.bilibili.com/video/BV1iW411d7hd/?spm_id_from=333.1387.favlist.content.click&vd_source=c801aa3fac0e6e97b0df71f74a8b25bd)
+[Github](https://github.com/EugeneLiu/translationCSAPP)
+[Book Website](https://csapp.cs.cmu.edu/)
+[Course Website](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
+[Backup Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)

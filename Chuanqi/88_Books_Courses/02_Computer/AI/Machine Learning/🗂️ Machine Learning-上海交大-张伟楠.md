@@ -1,0 +1,2 @@
+[Bilibili Link](https://www.bilibili.com/video/BV1L5S2Y9ESV/?vd_source=c801aa3fac0e6e97b0df71f74a8b25bd&spm_id_from=333.788.videopod.sections&__readwiseLocation=)
+[Course Website](https://wnzhang.net/teaching/sjtu-ml-2024/index.html)

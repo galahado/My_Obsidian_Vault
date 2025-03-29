@@ -1,0 +1,4 @@
+---
+aliases:
+  - free variables
+---

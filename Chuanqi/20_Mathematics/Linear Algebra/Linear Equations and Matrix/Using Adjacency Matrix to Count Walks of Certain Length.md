@@ -1,0 +1,1 @@
+[[Introduction to Linear Algebra(5E).pdf#page=86&selection=92,0,93,1|@Introduction to Linear Algebra(5E), page 86]]

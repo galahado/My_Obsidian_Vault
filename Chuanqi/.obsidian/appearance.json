@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "textFontFamily": "Iosevka",
+  "monospaceFontFamily": "Iosevka",
+  "interfaceFontFamily": "Iosevka",
+  "enabledCssSnippets": [
+    "Moy-Link Optimize"
+  ],
+  "theme": "moonstone"
+}

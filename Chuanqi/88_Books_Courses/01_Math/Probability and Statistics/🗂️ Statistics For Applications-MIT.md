@@ -1,0 +1,1 @@
+[OCW Link](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)

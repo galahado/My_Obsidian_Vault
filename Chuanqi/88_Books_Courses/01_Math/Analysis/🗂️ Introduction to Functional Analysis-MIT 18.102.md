@@ -1,0 +1,2 @@
+[OCW Link](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)
+[Bilibili Link](https://www.bilibili.com/video/BV1cAPqe3EsV/?t=15&spm_id_from=333.1007.tianma.7-3-25.click&vd_source=c801aa3fac0e6e97b0df71f74a8b25bd&__readwiseLocation=)

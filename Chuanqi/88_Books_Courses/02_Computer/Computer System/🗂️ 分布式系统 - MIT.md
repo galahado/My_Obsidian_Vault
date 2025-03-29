@@ -1,0 +1,2 @@
+[Bilibili Link](https://www.bilibili.com/video/BV1614y1D7Sh/?spm_id_from=333.788.recommend_more_video.0&vd_source=c801aa3fac0e6e97b0df71f74a8b25bd)
+[Course Website](https://pdos.csail.mit.edu/6.824/schedule.html)

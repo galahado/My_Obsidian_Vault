@@ -1,0 +1,1 @@
+* The user, service or application that request access to an IAM service or a resource

@@ -1,0 +1,2 @@
+[Bilibili Link - 18.03 2006 Spring](https://www.bilibili.com/video/BV1uBwJeiE5z?spm_id_from=333.788.videopod.sections&vd_source=c801aa3fac0e6e97b0df71f74a8b25bd&__readwiseLocation=)
+[OCW Link - 18.03SC 2011 Fall](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/unit-i-first-order-differential-equations/)

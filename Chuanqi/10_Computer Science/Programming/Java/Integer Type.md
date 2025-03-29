@@ -1,0 +1,1 @@
+![[Java Integer Types.png]]

@@ -1,0 +1,1 @@
+row space = line, [[Null Space]] = perpendicular plane
