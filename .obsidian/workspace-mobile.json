@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
+                "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM"
+              "title": "IAM User"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
+            "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
+            "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,9 +156,9 @@
   },
   "active": "e1ddaf18db44a1de",
   "lastOpenFiles": [
+    "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
     "Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
     "Chuanqi/10_Computer Science/AWS/IAM/IAM Role.md",
-    "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
     "Chuanqi/88_Books_Courses/01_Math/Analysis/📖 Analysis(3E) - Terence Tao.md"
   ]
 }
