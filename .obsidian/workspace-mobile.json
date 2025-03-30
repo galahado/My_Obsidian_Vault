@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
+                "file": "Chuanqi/10_Computer Science/AWS/IAM/IAM Policy.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM"
+              "title": "IAM Policy"
             }
           }
         ]
@@ -154,16 +154,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74823d01dd333359",
+  "active": "e1ddaf18db44a1de",
   "lastOpenFiles": [
-    "Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
-    "/Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
+    "Chuanqi/10_Computer Science/AWS/IAM/IAM Role.md",
+    "Chuanqi/10_Computer Science/AWS/IAM/Console Password.md",
+    "/Chuanqi/10_Computer Science/AWS/IAM/IAM Policy.md",
+    "/Chuanqi/10_Computer Science/AWS/IAM/Identity-based Policies.md",
+    "/Chuanqi/00_General/Images/Pasted image 20250329081245.png",
+    "Chuanqi/00_General/Images/Pasted image 20250329081245.png",
+    "/Chuanqi/00_General/Images",
+    "/Chuanqi/00_General",
     "/Chuanqi/10_Computer Science/AWS/IAM",
     "/Chuanqi/10_Computer Science/AWS",
     "/Chuanqi/10_Computer Science",
     "/Chuanqi",
     "Chuanqi/10_Computer Science/AWS/IAM/IAM.md",
-    "Chuanqi/10_Computer Science/AWS/IAM/IAM Role.md",
+    "Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
+    "/Chuanqi/10_Computer Science/AWS/IAM/IAM User.md",
     "Chuanqi/88_Books_Courses/01_Math/Analysis/📖 Analysis(3E) - Terence Tao.md"
   ]
 }
