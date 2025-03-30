@@ -7,3 +7,6 @@ Reference:[Educative](https://www.educative.io/courses/aws-solutions-architect-a
 		* attached with [[IAM Identity|IAM Identities]]
 	* [[Resource-based Policies]]: Define the access that an entity has to the AWS resources. These are attached to the IAM resources to which an entity requires access.
 	* ![[Pasted image 20250328131055.png]]
+	* restricting policy
+		* [[Permission Boundary]]
+		* [[Session Policy]]
