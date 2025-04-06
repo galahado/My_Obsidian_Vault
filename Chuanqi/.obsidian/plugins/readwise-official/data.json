@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 19453500,
+  "lastSavedStatusID": 19516958,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -77,7 +77,8 @@
     "99_Readwise/Books/Mastering Vim(2E).md": "46378504",
     "99_Readwise/Books/TheEconomist.2025.02.22.md": "49040563",
     "99_Readwise/Articles/China Is Secretly Worried Trump Will Win on Trade.md": "49393499",
-    "99_Readwise/Books/Your Brain at Work.md": "49512324"
+    "99_Readwise/Books/Your Brain at Work.md": "49512324",
+    "99_Readwise/Articles/Mathematics for Machine Learning.md": "50147605"
   },
   "reimportShowConfirmation": true
 }
