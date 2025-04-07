@@ -151,4 +151,6 @@
 - After a number of significant political setbacks, Plato wrote the tows ([View Highlight](https://read.readwise.io/read/01jpcy80r162kn8cgjdchrresa))
     - Tags: [[words]] 
     - Note: tows (noun)(tow): a series of writings or works; specifically, philosophical dialogues or texts; 一系列著作或作品，特别是哲学对话或文本 📜🖊️
+## New highlights added April 7, 2025 at 9:16 AM
+- Briefly, we can establish that Plato was concerned with the relationship between what is eternal and immutable, on the one hand, and what “flows,” on the other. ([View Highlight](https://read.readwise.io/read/01jr867vexsk0gksjq76agk5mg))
 
