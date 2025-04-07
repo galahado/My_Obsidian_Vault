@@ -46,5 +46,7 @@
 - (as we are wont to do with our human brains) ([View Highlight](https://read.readwise.io/read/01jhra8w8w5dfpsfgqbcdeya6d))
     - Tags: [[words]] 
     - Note: wont (adjective)(wont): accustomed; habitual 习惯于的 🧠📖
-
+## New highlights added April 7, 2025 at 8:16 AM
+- Emacs applies two other important heuristics you should know about: *coding systems* and *line endings*. ([View Highlight](https://read.readwise.io/read/01jr5hs78kcyzmsxwwhx38dmq8))
+    - Note: heuristics (noun)(heuristic): problem-solving methods or strategies that use practical approaches; rules of thumb 经验法则 🧠🔍
 
