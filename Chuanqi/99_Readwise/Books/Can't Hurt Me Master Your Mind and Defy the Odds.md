@@ -304,4 +304,8 @@
 - I grabbed it, slurped, and slumped into my sofa. ([View Highlight](https://read.readwise.io/read/01jp2qdz9tfpx91dkespeps6ev))
     - Tags: [[words]] 
     - Note: slurped (verb)(slurp): to make a loud slurping sound while consuming a liquid; to drink noisily 喝东西时发出大声的啧啧声 🥤👄
+## New highlights added April 8, 2025 at 7:09 PM
+- What a pipe dream. I couldn’t even run down the block for five minutes. ([View Highlight](https://read.readwise.io/read/01jrav0axbw7bw7drgavp6ydsw))
+    - Tags: [[words]] 
+    - Note: pipe dream (noun)(pipe dream): an unrealistic or fanciful hope or plan; an impossible goal 不切实际的幻想或计划 🥳💭
 
