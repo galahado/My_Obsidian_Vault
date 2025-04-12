@@ -3,8 +3,7 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "H"
     }
@@ -13,8 +12,7 @@
   "app:go-forward": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "L"
     }

@@ -13,5 +13,8 @@
 		* [[CIDR]]
 	* [Virtual Private Cloud (VPC)](https://www.educative.io/courses/aws-solutions-architect-associate/virtual-private-cloud-vpc)
 		* [[Virtual Private Cloud|VPC]]
+		* [[Subnet]]
+		* [[Internet Gateway]]
 		* [[NAT Gateway]]
+		* [[Route Table]]
 
