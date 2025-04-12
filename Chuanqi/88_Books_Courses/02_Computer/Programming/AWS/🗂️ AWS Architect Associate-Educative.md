@@ -10,4 +10,6 @@
 		* [[IPv6]]
 		* [[Classful IPv4 Addressing]]
 		* [[Subnet Mask]]
+		* [[CIDR]]
+	* [Virtual Private Cloud (VPC)](https://www.educative.io/courses/aws-solutions-architect-associate/virtual-private-cloud-vpc)
 
