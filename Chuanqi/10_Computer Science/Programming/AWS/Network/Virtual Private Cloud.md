@@ -8,3 +8,4 @@ aliases:
 	* customize IP address ranges
 	- configure routing tables
 	- manage network gateways 
+- use [[S]] to further segment the network to isolate and manage resources separately  
