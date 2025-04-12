@@ -33,15 +33,6 @@
       "key": "Delete"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "editor:insert-link": [
     {
       "modifiers": [
@@ -184,6 +175,16 @@
         "Shift"
       ],
       "key": "K"
+    }
+  ],
+  "obsidian-another-quick-switcher:move": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
     }
   ]
 }
