@@ -32,17 +32,6 @@ nnoremap k gk
 nnoremap I g0i
 nnoremap A g$a
 
-" HJKL behaves like hjkl, but bigger distance
-noremap H g0
-noremap L g$
-nnoremap J 6gj
-nnoremap K 6gk
-vnoremap J 6j
-vnoremap K 6k
-
-" dj = delete 2 lines, dJ = delete 3 lines
-onoremap J 2j
-
 " Jumps
 nnoremap <C-h> <C-o>
 nnoremap <C-l> <C-i>
