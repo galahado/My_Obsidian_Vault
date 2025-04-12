@@ -2,6 +2,9 @@
 aliases:
   - VPC
 ---
-VPC ::: A logically isolated section of the AWS cloud where you can launch your own resources
-<!--SR:!2000-01-01,1,250!2024-09-23,3,250-->
-	![[VPC.png]]
+* A logically isolated section of the AWS cloud where you can launch your own resources
+* ![[VPC.png]]
+* It allows users to create an isolated network within the AWS Cloud and provides control over the network environment.  
+	* customize IP address ranges
+	- configure routing tables
+	- manage network gateways 
