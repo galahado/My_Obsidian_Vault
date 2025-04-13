@@ -7,5 +7,6 @@
   "enabledCssSnippets": [
     "Moy-Link Optimize"
   ],
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 20
 }
