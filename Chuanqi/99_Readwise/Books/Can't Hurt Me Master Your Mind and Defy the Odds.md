@@ -308,4 +308,20 @@
 - What a pipe dream. I couldn’t even run down the block for five minutes. ([View Highlight](https://read.readwise.io/read/01jrav0axbw7bw7drgavp6ydsw))
     - Tags: [[words]] 
     - Note: pipe dream (noun)(pipe dream): an unrealistic or fanciful hope or plan; an impossible goal 不切实际的幻想或计划 🥳💭
+## New highlights added April 12, 2025 at 8:48 PM
+- He backs Rocky into a corner. Rocky’s legs are jelly. ([View Highlight](https://read.readwise.io/read/01jrp76b7xynyej88b9wv8bj40))
+    - Tags: [[words]] 
+    - Note: jelly (noun)(jelly): weak or unsteady; lacking strength or firmness 虚弱不稳的; 无力的 🍰💪
+
+- He can’t even muster the strength to raise his arms in defense. ([View Highlight](https://read.readwise.io/read/01jrp77zj1r8yrkmw9g39btd33))
+    - Tags: [[words]] 
+    - Note: muster (verb)(muster): to gather or summon a resource or quality; to assemble; 召集或召唤资源或品质 🏋️‍♂️💪
+
+- As the referee begins his ten-count, Rocky squirms toward the ropes. ([View Highlight](https://read.readwise.io/read/01jrp7aepaksksvredxx6mpf7k))
+    - Tags: [[words]] 
+    - Note: squirms (verb)(squirm): to wriggle or twist one's body; to feel uncomfortable or anxious in a situation; 蠕动，扭动 🐍😬
+
+- The champ’s shoulders slump in disbelief. ([View Highlight](https://read.readwise.io/read/01jrp7cr2cz6dsv95vbmse0zvp))
+    - Tags: [[words]] 
+    - Note: slump (verb)(slump): to drop or fall heavily; to sag or droop 下垂；跌落 📉😟
 
