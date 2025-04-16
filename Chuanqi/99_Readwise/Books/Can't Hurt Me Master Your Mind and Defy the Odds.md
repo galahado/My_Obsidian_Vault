@@ -324,4 +324,12 @@
 - The champ’s shoulders slump in disbelief. ([View Highlight](https://read.readwise.io/read/01jrp7cr2cz6dsv95vbmse0zvp))
     - Tags: [[words]] 
     - Note: slump (verb)(slump): to drop or fall heavily; to sag or droop 下垂；跌落 📉😟
+## New highlights added April 15, 2025 at 11:15 PM
+- I needed fresh air and more time to figure out how I was going to clear the restaurant of vermin ([View Highlight](https://read.readwise.io/read/01jp2jt8d4dz7yhyczxeqv4nxb))
+    - Tags: [[words]] 
+    - Note: vermin (noun)(vermin): pests or undesirable animals; harmful creatures 害虫或有害动物 🐀🦗
+
+- I’d wake up at 4:30 a.m., munch a banana, and hit the ASVAB books. ([View Highlight](https://read.readwise.io/read/01jrr4gekjn9tzzyg2sw5hv7w1))
+    - Tags: [[words]] 
+    - Note: munch (verb)(munch): to eat something steadily and often audibly; to chew noisily 吃东西，通常是咀嚼声很大 🍌😋
 
