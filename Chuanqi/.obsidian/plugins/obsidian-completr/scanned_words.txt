@@ -400513,6 +400513,7 @@ yGWW
 yrcv
 yjPR
 yUJy
+yearly
 judgment
 jam
 jKv
@@ -424516,6 +424517,8 @@ EtDOcS
 Enables
 EventBridge
 Endpoint
+Evus
+Expedia
 Putting
 People
 Prist
@@ -440021,6 +440024,7 @@ DHCP
 Docker
 DENY
 Dedicated
+Dental
 OCP
 Overview
 OMZ
@@ -455545,6 +455549,7 @@ JeCy
 JQMl
 JQvg
 JUdH
+Jetblue
 Vim
 VN
 Vzf
@@ -463308,6 +463313,7 @@ VynE
 VLSM
 VDDRpStsG
 VPCs
+Visa
 You
 Yc
 Yf

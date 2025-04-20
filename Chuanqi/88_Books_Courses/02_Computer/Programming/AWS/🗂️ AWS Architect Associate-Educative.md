@@ -1,6 +1,6 @@
 [Course Link](https://www.educative.io/courses/aws-solutions-architect-associate/iam-policies)
 
-- [ ] networking
+- [ ] Networking
 - [ ] Route 53 
 - [ ] Serverless Computing 
 - [ ] Application integrating 
@@ -16,6 +16,6 @@
 - [ ] Machine Learning 
 - [ ] Content Delivery and Optimization 
 - [ ] Analytics 
-- [ ] Monitoring and Auditing
-Management and Governance
-Billing and Cost Management
+- [ ] Monitoring and Auditing 
+- [ ] Management and Governance 
+- [ ] Billing and Cost Management
