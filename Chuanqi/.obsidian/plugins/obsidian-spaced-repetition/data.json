@@ -1,7 +1,10 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      "#aws",
+      "#math",
+      "#cs",
+      "#finance"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": true,

@@ -1,2 +1,2 @@
-#flashcards/abc #test/test2
+#aws/test
 test::answer
