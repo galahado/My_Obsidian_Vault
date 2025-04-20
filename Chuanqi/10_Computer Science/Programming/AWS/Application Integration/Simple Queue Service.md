@@ -1,31 +1,21 @@
 ---
 aliases:
   - SQS
-deck: Profession::AWS
 tags:
   - aws/application_integration
 ---
-<!-- clozeblock-start oid="ObspWploF1vcQt5VDDRpStsG"-->
-==SQS== Enables ==loosely coupled, scalable, and reliable communication between different application components==. It acts as a highly available buffer for data exchanged between these components.
-<!-- clozeblock-end-->
+SQS Enables loosely coupled, scalable, and reliable communication between different application components. It acts as a highly available buffer for data exchanged between these components.
 
 ## Delivery Delay
-<!-- clozeblock-start oid="ObsnYlxvXeOkzUTNhNWvPhyq"-->
-delivery delay default is ==0==, can be set up to ==15 minutes==
-<!-- clozeblock-end-->
+delivery delay default is 0, can be set up to 15 minutes
 
 ## Message Size
-<!-- clozeblock-start oid="Obsx34UGPoBtuquYcldL2p4i"-->
-message size limit is up to ==256 KB==
-<!-- clozeblock-end-->
+message size limit is up to 256 KB
 
 ## Encryption
-<!-- clozeblock-start oid="ObshCNSWzoZRzUnBa2vKfE85"-->
-encrypted ==in transit== by default, but you can add ==at-rest==
-<!-- clozeblock-end-->
+encrypted in transit by default, but you can add at-rest
 
 ## Message Retention
-<!-- clozeblock-start oid="ObsC19GcbjBcHLBviJ2g6Ofb"-->
 Message retention default is ==4 days==, available range is ==1 minute - 14 days==
 <!-- clozeblock-end-->
 
