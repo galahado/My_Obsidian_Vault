@@ -332,4 +332,8 @@
 - I’d wake up at 4:30 a.m., munch a banana, and hit the ASVAB books. ([View Highlight](https://read.readwise.io/read/01jrr4gekjn9tzzyg2sw5hv7w1))
     - Tags: [[words]] 
     - Note: munch (verb)(munch): to eat something steadily and often audibly; to chew noisily 吃东西，通常是咀嚼声很大 🍌😋
+## New highlights added April 20, 2025 at 2:23 PM
+- But glossy surfaces reflect much more than they reveal. ([View Highlight](https://read.readwise.io/read/01jg1c7hbyymx8ma8252spwwev))
+    - Tags: [[words]] 
+    - Note: glossy (adjective)(glossy): shiny; smooth and reflective 光滑的；有光泽的 ✨🪞
 
