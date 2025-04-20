@@ -11,7 +11,9 @@ tags:
 <!--SR:!2025-04-23,3,250-->
 - stateful or stateless? :: stateless.
 - work on which level? :: Subnet level
+<!--SR:!2025-04-23,3,250-->
 - how the rules of NACLs are evaluated? :: by rule number, from lowest to highest
+<!--SR:!2025-04-23,3,250-->
 - difference between a NACL and a Security Group?
     - NACLs have both allow and deny rules
     - security group only have allow rules

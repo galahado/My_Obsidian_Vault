@@ -19,3 +19,5 @@ sr-ease: 250
     - use Security Group to allow traffic to and from the security group of the peering vpc
 - Inter-Region
     - use CIDR
+- How many VPC peering connections can a VPC have with another VPC? :: only one
+<!--SR:!2025-04-23,3,250-->
