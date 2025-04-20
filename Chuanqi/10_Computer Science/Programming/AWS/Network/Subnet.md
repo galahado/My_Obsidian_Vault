@@ -1,5 +1,2 @@
----
-deck: Profession::AWS
----
-#flashcards
+#flashcards/abc #test/test2
 test::answer
