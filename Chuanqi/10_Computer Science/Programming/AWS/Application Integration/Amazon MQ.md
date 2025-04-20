@@ -1,5 +1,4 @@
 ---
-deck: Profession::AWS
 tags:
   - aws/application_integration
 ---
