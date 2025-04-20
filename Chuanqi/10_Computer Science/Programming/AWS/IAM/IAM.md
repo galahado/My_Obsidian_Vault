@@ -11,7 +11,7 @@ deck:
 		* ![[Pasted image 20250328101246.png|300]]
 		* ![[IAM Overview.png]]
 * ### Components of IAM
-	* [[IAM Entities]]
+	* [[Entities]]
 		* [[IAM User]]
 		* [[IAM Role]]
 	* [[IAM Identity]]

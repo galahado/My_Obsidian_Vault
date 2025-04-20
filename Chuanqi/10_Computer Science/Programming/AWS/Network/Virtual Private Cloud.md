@@ -1,6 +1,8 @@
 ---
 aliases:
   - VPC
+tags:
+  - review
 ---
 * A logically isolated section of the AWS cloud where you can launch your own resources
 * ![[VPC.png]]
