@@ -1,0 +1,3 @@
+- Outbound Traffic
+- Inbound Traffic
+	- we can use [[Security Group]] and [[NACL]] to control the types of inbound traffic allowed to reach your resources
