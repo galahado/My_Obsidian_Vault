@@ -27844,6 +27844,7 @@ ARrw
 Aurora
 ACpw
 AppSync
+ALLOW
 Full
 Filter
 FlateDecode
@@ -93444,6 +93445,7 @@ SMLlEXD
 SPeG
 Scan
 Subnets
+Subnet
 Highlights
 His
 HotSpot
@@ -159174,6 +159176,7 @@ interval
 ioBgoImPv
 iSoTCx
 identifying
+increments
 taking
 to
 tax
@@ -185620,6 +185623,7 @@ segment
 separately
 sJdKybyH
 stack
+stateless
 prevent
 partnerships
 play
@@ -211573,6 +211577,7 @@ defining
 detects
 dashboards
 dual
+deny
 collect
 clean
 compliance
@@ -224917,6 +224922,7 @@ clusters
 configured
 compatible
 communications
+convention
 over
 ongoing
 or
@@ -298321,6 +298327,7 @@ remove
 runtime
 running
 reach
+recommended
 It
 Instead
 In
@@ -314269,6 +314276,7 @@ frequently
 frequent
 fully
 failures
+firewall
 maintaining
 massed
 may
@@ -338205,6 +338213,7 @@ leaving
 lOqhTk
 loosely
 lower
+lowest
 not
 negligible
 noun
@@ -384792,6 +384801,7 @@ NOZY
 NJklQrxdPqg
 NZjz
 NACL
+NACLs
 urgent
 used
 utilize
@@ -439984,6 +439994,7 @@ Destination
 Deny
 DHCP
 Docker
+DENY
 OCP
 Overview
 OMZ
