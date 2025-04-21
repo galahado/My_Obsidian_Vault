@@ -1,3 +1,8 @@
+---
+tags:
+  - review
+  - aws/vpc
+---
 - capture IP traffic information through the VPC
 - can be set in 3 levels
     - VPC level

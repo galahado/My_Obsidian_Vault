@@ -1,3 +1,8 @@
+---
+tags:
+  - review
+  - aws/vpc
+---
 - VPC Endpoint
     - Interface Endpoint
         - serve as an entry point for traffic going to a endpoint service
