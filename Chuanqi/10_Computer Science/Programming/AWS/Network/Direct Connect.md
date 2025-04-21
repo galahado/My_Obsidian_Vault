@@ -1,3 +1,8 @@
+---
+tags:
+  - review
+  - aws/vpc
+---
 - dedicated _private connection_ from our on-premises network to the VPC 
 - uses the AWS Direct Connect location
 - types
