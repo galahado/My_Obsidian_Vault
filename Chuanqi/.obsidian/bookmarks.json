@@ -77,15 +77,15 @@
         },
         {
           "type": "group",
-          "ctime": 1745330583311,
+          "ctime": 1745330857619,
           "items": [],
-          "title": "Resources"
+          "title": "Finance"
         },
         {
           "type": "group",
-          "ctime": 1745330389402,
+          "ctime": 1745330583311,
           "items": [],
-          "title": "Books_Courses"
+          "title": "Resources"
         },
         {
           "type": "group",
@@ -98,18 +98,6 @@
           "ctime": 1745330389402,
           "path": "Untitled.canvas",
           "subpath": "#^-"
-        },
-        {
-          "type": "group",
-          "ctime": 1745330583311,
-          "items": [],
-          "title": "Programming"
-        },
-        {
-          "type": "group",
-          "ctime": 1745330583311,
-          "items": [],
-          "title": "Mathematics"
         }
       ],
       "title": "sortspec"
