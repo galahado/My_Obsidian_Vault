@@ -38,4 +38,8 @@
 - We each noted the other’s despondency ([View Highlight](https://read.readwise.io/read/01jq6mthz203xf6afk0ems9y9h))
     - Tags: [[words]] 
     - Note: despondency (noun)(despondency): a state of low spirits caused by loss of hope or courage; dejection 失望的状态；沮丧 😞💔
+## New highlights added April 22, 2025 at 8:23 AM
+- V’s surgery, chemotherapy, and radiation treatments were trying, but a success. ([View Highlight](https://read.readwise.io/read/01jsemxnnzfqw4xs1njeszn7hg))
+    - Tags: [[words]] 
+    - Note: trying (adjective)(try): difficult or challenging; 耗费精力的 😓💪
 
