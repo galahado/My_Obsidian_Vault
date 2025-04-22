@@ -71,6 +71,25 @@
         },
         {
           "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "AWS"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334311729,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1745334327738,
+              "items": [],
+              "title": "C&C++"
+            }
+          ],
+          "title": "Assembly"
+        },
+        {
+          "type": "group",
           "ctime": 1745330389402,
           "items": [],
           "title": "Math"
@@ -98,6 +117,18 @@
           "ctime": 1745330389402,
           "path": "Untitled.canvas",
           "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "Java"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "Linux"
         }
       ],
       "title": "sortspec"
