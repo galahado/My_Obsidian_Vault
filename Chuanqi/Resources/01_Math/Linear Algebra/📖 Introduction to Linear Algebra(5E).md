@@ -3,7 +3,7 @@
 ## Chapter 3. Vector Spaces and Subspaces
 ### 3.1 Spaces of Vectors
 ### 3.2 The Nullspace of A
-The [[null space]] N(A) consists of all solutions to [[Ax = 0]]. 
+The [[Null Space]] N(A) consists of all solutions to [[Ax = 0]]. 
 These vectors x are in $R^n$
 
 > [[Introduction to Linear Algebra(5E).pdf#page=146&selection=53,0,71,2|📖]]
