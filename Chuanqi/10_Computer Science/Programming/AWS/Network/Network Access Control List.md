@@ -4,6 +4,9 @@ aliases:
 tags:
   - review
   - aws/vpc
+sr-due: 2025-04-25
+sr-interval: 3
+sr-ease: 250
 ---
 - both ALLOW and DENY rules? :: Yes
 <!--SR:!2025-04-23,3,250-->
