@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 19844594,
+  "lastSavedStatusID": 19848700,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -102,7 +102,8 @@
     "Readwise/Books/英语语法新思维.md": "36574522",
     "Readwise/Books/深入理解Java虚拟机(3E).md": "41658390",
     "Readwise/Tweets/Build Your Own Redis With C.md": "46437660",
-    "Readwise/Tweets/Just in Case You Really Want to Polish Up Your....md": "44162283"
+    "Readwise/Tweets/Just in Case You Really Want to Polish Up Your....md": "44162283",
+    "Readwise/Books/AWS Certified Solutions Architect Study Guide.md": "50786643"
   },
   "reimportShowConfirmation": true
 }
