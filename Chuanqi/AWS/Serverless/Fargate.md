@@ -1,8 +1,9 @@
 ---
 tags:
   - aws/serverless
+  - review
 ---
-AWS Fargate is a serverless compute engine for containers that works with both ECS and EKS.
+What is Fargate? :: It is a serverless compute engine for containers that works with both ECS and EKS.
 
 ECS or EKS is a requirement. Fargate doesn’t work by itself.
 
