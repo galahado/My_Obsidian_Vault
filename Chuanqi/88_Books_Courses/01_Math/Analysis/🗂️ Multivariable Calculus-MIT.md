@@ -5,7 +5,7 @@ tags:
 https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
 https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
 
-- [ ] Lec 4: Square systems; equations of planes 📅 2024-07-07 
+- [ ] Lec 4: Square systems; equations of planes 📅 2025-04-23
 - [ ] Lec 5: Parametric equations for lines and curves
 - [ ] Lec 6: Velocity, acceleration; Kepler's second law2007
 - [ ] Lec 7: Review
