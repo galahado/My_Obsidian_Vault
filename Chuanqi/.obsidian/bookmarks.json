@@ -59,6 +59,12 @@
         },
         {
           "type": "group",
+          "ctime": 1745330583311,
+          "items": [],
+          "title": "Resources"
+        },
+        {
+          "type": "group",
           "ctime": 1745334460436,
           "items": [],
           "title": "Computer System"
@@ -119,33 +125,33 @@
         },
         {
           "type": "group",
-          "ctime": 1745330389402,
-          "items": [],
-          "title": "Math"
-        },
-        {
-          "type": "group",
           "ctime": 1745330857619,
           "items": [],
           "title": "Finance"
-        },
-        {
-          "type": "group",
-          "ctime": 1745330583311,
-          "items": [],
-          "title": "Resources"
-        },
-        {
-          "type": "group",
-          "ctime": 1745330389402,
-          "items": [],
-          "title": "Readwise"
         },
         {
           "type": "file",
           "ctime": 1745330389402,
           "path": "Untitled.canvas",
           "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334692964,
+          "items": [],
+          "title": "Analysis"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334692964,
+          "items": [],
+          "title": "Linear Algebra"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "Readwise"
         }
       ],
       "title": "sortspec"
