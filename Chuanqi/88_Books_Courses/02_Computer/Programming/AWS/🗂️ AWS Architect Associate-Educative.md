@@ -1,6 +1,6 @@
 [Course Link](https://www.educative.io/courses/aws-solutions-architect-associate/iam-policies)
 
-- [ ] Networking
+- [x] Networking ✅ 2025-04-22
 - [ ] Route 53 
 - [ ] Serverless Computing 
 - [ ] Application integrating 
