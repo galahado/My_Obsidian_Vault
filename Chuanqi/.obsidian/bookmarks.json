@@ -46,6 +46,55 @@
         }
       ],
       "title": "Doing"
+    },
+    {
+      "type": "group",
+      "ctime": 1745330389402,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "00_General"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "10_Computer Science"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "11_Programming"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "20_Mathematics"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "88_Books_Courses"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "99_Readwise"
+        },
+        {
+          "type": "file",
+          "ctime": 1745330389402,
+          "path": "Untitled.canvas",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
     }
   ]
 }
