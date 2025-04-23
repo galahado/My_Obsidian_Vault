@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"file","file":"Java/Integer Type.md","id":"748f40f42da4fdb0","x":-373,"y":-120,"width":354,"height":200},
+		{"id":"8c7f41a90fa7b682","type":"file","file":"Java/long.md","x":200,"y":181,"width":240,"height":89},
+		{"type":"file","file":"Java/short.md","id":"07046e14c9a78fd0","x":-440,"y":181,"width":260,"height":89},
+		{"type":"file","file":"Java/int.md","id":"614750459ba87080","x":-127,"y":181,"width":247,"height":89},
+		{"type":"file","file":"Java/byte.md","id":"276e9c65a0def294","x":-760,"y":181,"width":280,"height":119},
+		{"id":"e3c2613b4d52099c","type":"text","text":"[[Least Square]]","x":-907,"y":-42,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5d6929220c62558d","fromNode":"614750459ba87080","fromSide":"top","toNode":"748f40f42da4fdb0","toSide":"bottom"},
+		{"id":"4368cf8f5a63e4e2","fromNode":"07046e14c9a78fd0","fromSide":"top","toNode":"748f40f42da4fdb0","toSide":"bottom"},
+		{"id":"77828cd2a96762e5","fromNode":"276e9c65a0def294","fromSide":"top","toNode":"748f40f42da4fdb0","toSide":"left"},
+		{"id":"b35ca1b38f316ff9","fromNode":"8c7f41a90fa7b682","fromSide":"top","toNode":"748f40f42da4fdb0","toSide":"right"}
+	]
+}

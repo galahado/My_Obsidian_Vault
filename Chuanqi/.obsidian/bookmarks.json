@@ -3,7 +3,7 @@
     {
       "type": "file",
       "ctime": 1716195609422,
-      "path": "10_Computer Science/Computer Science.canvas"
+      "path": "Computer System/Computer Science.canvas"
     },
     {
       "type": "group",
@@ -12,40 +12,149 @@
         {
           "type": "file",
           "ctime": 1741694693106,
-          "path": "88_Books_Courses/02_Computer/Programming/General/🗂️ 混沌学堂-黄俊/📝 混沌学堂-黄俊-Season2.md"
+          "path": "Resources/02_Computer/Programming/General/🗂️ 混沌学堂-黄俊/📝 混沌学堂-黄俊-Season2.md"
         },
         {
           "type": "file",
           "ctime": 1741694705766,
-          "path": "88_Books_Courses/01_Math/Linear Algebra/🗂️ Linear Algebra-台湾清华-赵启超.md"
+          "path": "Resources/01_Math/Linear Algebra/🗂️ Linear Algebra-台湾清华-赵启超.md"
         },
         {
           "type": "file",
           "ctime": 1741695788441,
-          "path": "88_Books_Courses/02_Computer/Computer System/🗂️ CSAPP-CMU 15-213/📝 CSAPP-CMU 15-213.md"
+          "path": "Resources/02_Computer/Computer System/🗂️ CSAPP-CMU 15-213/📝 CSAPP-CMU 15-213.md"
         },
         {
           "type": "file",
           "ctime": 1741699021670,
-          "path": "88_Books_Courses/02_Computer/Programming/AWS/🗂️ AWS Architect Associate-Exampro.md"
+          "path": "Resources/02_Computer/Programming/AWS/🗂️ AWS Architect Associate-Exampro.md"
         },
         {
           "type": "file",
           "ctime": 1741699851129,
-          "path": "88_Books_Courses/02_Computer/Programming/AWS/🗂️ AWS Architect Associate-Educative.md"
+          "path": "Resources/02_Computer/Programming/AWS/🗂️ AWS Architect Associate-Educative.md"
         },
         {
           "type": "file",
           "ctime": 1741776852952,
-          "path": "88_Books_Courses/04_English/🗂️ ACE语音语调.md"
+          "path": "Resources/04_English/🗂️ ACE语音语调.md"
         },
         {
           "type": "file",
           "ctime": 1743166419567,
-          "path": "88_Books_Courses/02_Computer/Computer System/🗂️ Dr. Dng - 陪跑 CSAPP.md"
+          "path": "Resources/02_Computer/Computer System/🗂️ Dr. Dng - 陪跑 CSAPP.md"
         }
       ],
       "title": "Doing"
+    },
+    {
+      "type": "group",
+      "ctime": 1745330389402,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1745330583311,
+          "items": [],
+          "title": "General"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330583311,
+          "items": [],
+          "title": "Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334460436,
+          "items": [],
+          "title": "Computer System"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334460436,
+          "items": [],
+          "title": "Complier"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334460436,
+          "items": [],
+          "title": "OS"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334460436,
+          "items": [],
+          "title": "Network"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334460436,
+          "items": [],
+          "title": "AI"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "Linux"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "AWS"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334311729,
+          "items": [],
+          "title": "Assembly"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "C&C++"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334327738,
+          "items": [],
+          "title": "Java"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330857619,
+          "items": [],
+          "title": "Finance"
+        },
+        {
+          "type": "file",
+          "ctime": 1745330389402,
+          "path": "Untitled.canvas",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334692964,
+          "items": [],
+          "title": "Analysis"
+        },
+        {
+          "type": "group",
+          "ctime": 1745334692964,
+          "items": [],
+          "title": "Linear Algebra"
+        },
+        {
+          "type": "group",
+          "ctime": 1745330389402,
+          "items": [],
+          "title": "Readwise"
+        }
+      ],
+      "title": "sortspec"
     }
   ]
 }

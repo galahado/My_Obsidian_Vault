@@ -32,17 +32,6 @@ nnoremap k gk
 nnoremap I g0i
 nnoremap A g$a
 
-" HJKL behaves like hjkl, but bigger distance
-noremap H g0
-noremap L g$
-nnoremap J 6gj
-nnoremap K 6gk
-vnoremap J 6j
-vnoremap K 6k
-
-" dj = delete 2 lines, dJ = delete 3 lines
-onoremap J 2j
-
 " Jumps
 nnoremap <C-h> <C-o>
 nnoremap <C-l> <C-i>
@@ -50,8 +39,8 @@ nnoremap <C-l> <C-i>
 " :bnext/bprev
 exmap goBack obcommand app:go-back
 exmap goForward obcommand app:go-forward
-nnoremap <BS> :goBack
-nnoremap <S-BS> :goForward
+nnoremap <BS> :goBack<CR>
+nnoremap <S-BS> :goForward<CR>
 
 " sentence navigation
 noremap [ (
@@ -128,22 +117,22 @@ exmap wq obcommand workspace:close
 exmap q obcommand workspace:close
 
 exmap focusRight obcommand editor:focus-right
-nmap <C-w>l :focusRight
+nmap <C-w>l :focusRight<CR>
 
 exmap focusLeft obcommand editor:focus-left
-nmap <C-w>h :focusLeft
+nmap <C-w>h :focusLeft<CR>
 
 exmap focusTop obcommand editor:focus-top
-nmap <C-w>k :focusTop
+nmap <C-w>k :focusTop<CR>
 
 exmap focusBottom obcommand editor:focus-bottom
-nmap <C-w>j :focusBottom
+nmap <C-w>j :focusBottom<CR>
 
 exmap splitVertical obcommand workspace:split-vertical
-nmap <C-w>v :splitVertical
+nmap <C-w>v :splitVertical<CR>
 
 exmap splitHorizontal obcommand workspace:split-horizontal
-nmap <C-w>s :splitHorizontal
+nmap <C-w>s :splitHorizontal<CR>
 
 " Surround
 exmap surround_wiki surround [[ ]]

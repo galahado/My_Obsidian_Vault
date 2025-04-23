@@ -1,0 +1,14 @@
+---
+tags:
+  - review
+  - aws/vpc
+---
+- dedicated _private connection_ from our on-premises network to the VPC 
+- uses the AWS Direct Connect location
+- types
+	- Dedicated Connection
+		- physical connection given to a single customer
+	- Hosted Connection
+		- using AWS Direct Connect Partner
+- data in transition is not encrypted, we can add a VPN to encrypt the data
+- Direct Connect Gateway

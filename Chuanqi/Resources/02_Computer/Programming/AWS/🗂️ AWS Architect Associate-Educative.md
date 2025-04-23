@@ -1,0 +1,21 @@
+[Course Link](https://www.educative.io/courses/aws-solutions-architect-associate/iam-policies)
+
+- [x] Networking ✅ 2025-04-22
+- [ ] Route 53 
+- [ ] Serverless Computing 
+- [ ] Application integrating 
+- [ ] Containers 
+- [ ] High Availability and Scalability 
+- [ ] Storage 
+- [ ] File Storage and Transfer 
+- [ ] Database 
+- [ ] Migration and Transfer 
+- [ ] Security and Compliance 
+- [ ] Deployment Services 
+- [ ] CloudFormation 
+- [ ] Machine Learning 
+- [ ] Content Delivery and Optimization 
+- [ ] Analytics 
+- [ ] Monitoring and Auditing 
+- [ ] Management and Governance 
+- [ ] Billing and Cost Management

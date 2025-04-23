@@ -1,16 +1,17 @@
 [
-  "canvas-links",
   "obsidian-tasks-plugin",
   "obsidian-git",
   "obsidian-vimrc-support",
   "vim-yank-highlight",
-  "obsidian-relative-line-numbers",
   "mrj-jump-to-link",
-  "obsidian-another-quick-switcher",
   "obsidian-completr",
   "obsidian-hider",
   "fast-text-color",
   "readwise-official",
   "obsidian-outliner",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-another-quick-switcher",
+  "canvas-links",
+  "obsidian-spaced-repetition",
+  "custom-sort"
 ]
