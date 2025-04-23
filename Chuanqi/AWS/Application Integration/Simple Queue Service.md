@@ -4,6 +4,8 @@ aliases:
 tags:
   - aws/application_integration
 ---
+* [Lab: Getting Started with Amazon Simple Queue Service (SQS)](https://www.educative.io/cloudlabs/getting-started-with-amazon-simple-queue-service-sqs)
+* 
 * SQS Enables loosely coupled, scalable, and reliable communication between different application components. It acts as a highly available buffer for data exchanged between these components.
 * delivery delay default is 0, can be set up to 15 minutes
 * message size limit is up to 256 KB
