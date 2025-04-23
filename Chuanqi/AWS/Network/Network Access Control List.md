@@ -29,4 +29,4 @@ sr-ease: 250
 - The highest rule number in a NACL
     - 32766
 - If you want to block a single IP address in a VPC, which service should you use? :: NACL
-<!--SR:!2025-04-23,3,250-->
+<!--SR:!2025-05-01,8,250-->
