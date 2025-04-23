@@ -2,6 +2,9 @@
 tags:
   - review
   - aws/vpc
+sr-due: 2025-04-26
+sr-interval: 3
+sr-ease: 250
 ---
 - Outbound Traffic
 - Inbound Traffic
