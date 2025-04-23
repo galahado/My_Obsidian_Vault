@@ -4,20 +4,15 @@ aliases:
 tags:
   - aws/application_integration
 ---
-SQS Enables loosely coupled, scalable, and reliable communication between different application components. It acts as a highly available buffer for data exchanged between these components.
-
-## Delivery Delay
-delivery delay default is 0, can be set up to 15 minutes
-
-## Message Size
-message size limit is up to 256 KB
+* SQS Enables loosely coupled, scalable, and reliable communication between different application components. It acts as a highly available buffer for data exchanged between these components.
+* delivery delay default is 0, can be set up to 15 minutes
+* message size limit is up to 256 KB
 
 ## Encryption
 encrypted in transit by default, but you can add at-rest
 
 ## Message Retention
 Message retention default is 4 days, available range is 1 minute - 14 days
-
 ## Polling
 Short Polling: The consumer receives an immediate response, but the queue might not be checked frequently enough to catch newly available messages.
 
