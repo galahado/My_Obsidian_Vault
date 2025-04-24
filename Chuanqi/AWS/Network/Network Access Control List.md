@@ -9,13 +9,13 @@ sr-interval: 3
 sr-ease: 250
 ---
 - both ALLOW and DENY rules? :: Yes
-<!--SR:!2025-04-23,3,250-->
+<!--SR:!2025-05-03,9,250-->
 - usage :: act as a virtual firewall
 <!--SR:!2025-05-02,8,250-->
 - stateful or stateless? :: stateless.
-<!--SR:!2025-04-23,3,250-->
+<!--SR:!2025-05-01,7,250-->
 - work on which level? :: Subnet level
-<!--SR:!2025-04-23,3,250-->
+<!--SR:!2025-05-02,8,250-->
 - how the rules of NACLs are evaluated? :: by rule number, from lowest to highest
 <!--SR:!2025-05-02,8,250-->
 - difference between a NACL and a Security Group?

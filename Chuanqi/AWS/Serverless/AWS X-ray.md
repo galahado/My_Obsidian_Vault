@@ -1,12 +1,8 @@
 ---
-deck: Profession::AWS
 tags:
   - aws/serverless
 ---
-<!-- clozeblock-start oid="Obs41lOqhTk88vpUx2EtDOcS"-->
-AWS ==X-Ray== is used for ==gathering application insights==
-<!-- clozeblock-end-->
+==AWS X-Ray== is used for ==gathering application insights==
+<!--SR:!2025-04-27,3,250!2025-04-27,3,250-->
 
-<!-- clozeblock-start oid="ObsCOxiZRyF0pHIArh62Yzlj"-->
-Traces and downstream response times: If these terms are brought up in the question, then you will want to look for AWS ==X-Ray==
-<!-- clozeblock-end-->
+Traces and downstream response times: If these terms are brought up in the question, then you will want to look for AWS X-Ray

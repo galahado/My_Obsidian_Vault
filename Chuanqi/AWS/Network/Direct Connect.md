@@ -3,7 +3,8 @@ tags:
   - review
   - aws/vpc
 ---
-- What is direct connect? :: dedicated _private connection_ from our on-premises network to the VPC 
+- What is direct connect? :: dedicated _private connection_ from our on-premises network to the VPC
+<!--SR:!2025-04-27,3,250-->
 - uses the AWS Direct Connect Location
 - types
 	- Dedicated Connection
