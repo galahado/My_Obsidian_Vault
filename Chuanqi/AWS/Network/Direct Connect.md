@@ -3,8 +3,8 @@ tags:
   - review
   - aws/vpc
 ---
-- dedicated _private connection_ from our on-premises network to the VPC 
-- uses the AWS Direct Connect location
+- What is direct connect? :: dedicated _private connection_ from our on-premises network to the VPC 
+- uses the AWS Direct Connect Location
 - types
 	- Dedicated Connection
 		- physical connection given to a single customer
