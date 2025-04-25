@@ -20,4 +20,4 @@ sr-ease: 250
 - Inter-Region
     - use CIDR
 - How many VPC peering connections can a VPC have with another VPC? :: only one
-<!--SR:!2025-04-23,3,250-->
+<!--SR:!2025-05-01,7,250-->
