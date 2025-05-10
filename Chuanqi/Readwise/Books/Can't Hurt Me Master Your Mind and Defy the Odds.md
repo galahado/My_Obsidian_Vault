@@ -336,4 +336,8 @@
 - But glossy surfaces reflect much more than they reveal. ([View Highlight](https://read.readwise.io/read/01jg1c7hbyymx8ma8252spwwev))
     - Tags: [[words]] 
     - Note: glossy (adjective)(glossy): shiny; smooth and reflective 光滑的；有光泽的 ✨🪞
+## New highlights added May 5, 2025 at 4:18 PM
+- My lungs were still filled with mucus and each cough shook my chest and sounded like a rake was scraping the inside of my alveoli. ([View Highlight](https://read.readwise.io/read/01jtgapkp2rtnwzk7mc9ew5t5h))
+    - Tags: [[words]] 
+    - Note: alveoli (noun)(alveolus): tiny air sacs in the lungs where gas exchange occurs; 肺中进行气体交换的小气囊 🌬️🫁
 
