@@ -2,8 +2,8 @@
 tags:
   - review
   - aws/vpc
-sr-due: 2025-04-26
-sr-interval: 3
+sr-due: 2025-07-12
+sr-interval: 63
 sr-ease: 250
 ---
  ### What is a NAT Gateway?
