@@ -78,10 +78,11 @@
     "50147605",
     "46201737",
     "43735138",
-    "42426755",
     "46930537"
   ],
   "failedBooks": [],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md": "42426755"
+  },
   "reimportShowConfirmation": true
 }
