@@ -6,8 +6,8 @@ sr-due: 2025-04-26
 sr-interval: 3
 sr-ease: 250
 ---
-What is Fargate? :: It is a serverless compute engine for containers that works with both ECS and EKS.
-<!--SR:!2025-04-26,3,250-->
+## What is Fargate
+Fargate is a serverless compute engine for containers that works with both ECS and EKS.
 
 ECS or EKS is a requirement. Fargate doesn’t work by itself.
 
