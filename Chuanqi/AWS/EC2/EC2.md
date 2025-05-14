@@ -39,11 +39,11 @@ each partition placement group has its own set of racks each rack has its own ne
 - you cannot merge placement groups 
 - you can move an existing instance into a placement group 
 
-## Licensing 
+## Dedicated Host
 when asked about licensing, you should consider Dedicated Host 
 
 ## Spot Fleets
-spot block 
+### spot block 
 
 you can use it to stop your spot instances from being terminated even if the spot price is goes over your max spot price 
 
