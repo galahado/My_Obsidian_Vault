@@ -27846,6 +27846,7 @@ ACpw
 AppSync
 ALLOW
 AYkVm
+Adapter
 Full
 Filter
 FlateDecode
@@ -40847,6 +40848,8 @@ FEAg
 Formats
 FxCh
 Firehose
+Fabric
+Fleets
 Title
 The
 There
@@ -67167,6 +67170,7 @@ Containers
 CloudFormation
 Cheatsheet
 Cedq
+Cassandra
 books
 billion
 balance
@@ -80170,6 +80174,8 @@ bWWQeToUJy
 brought
 bthfKMW
 bLtLe
+bootstrap
+bypass
 Summary
 Sun
 Spot
@@ -106134,6 +106140,8 @@ HhpyEh
 HibE
 Hosted
 HvWG
+HBase
+Hours
 WSJ
 Wf
 WG
@@ -132593,6 +132601,8 @@ acccount
 accounts
 akpA
 aLYPodolc
+accelerate
+asked
 Biden
 Bj
 BY
@@ -172356,6 +172366,8 @@ transitive
 transition
 tunnel
 triggering
+terminated
+talking
 steps
 support
 scolded
@@ -185656,6 +185668,9 @@ send
 sVij
 sAjx
 subscriber
+scripts
+spot
+servers
 prevent
 partnerships
 play
@@ -198321,6 +198336,10 @@ pIFz
 peering
 partner
 probability
+purchase
+prices
+partition
+placement
 dodging
 domestic
 decade
@@ -211615,6 +211634,8 @@ dual
 deny
 dedicated
 dggI
+discount
+deployed
 collect
 clean
 compliance
@@ -224961,6 +224982,7 @@ compatible
 communications
 convention
 capture
+cards
 over
 ongoing
 or
@@ -237674,6 +237696,7 @@ oWVzTpO
 oOhMo
 older
 ohKc
+optional
 energy
 eating
 existed
@@ -263791,6 +263814,8 @@ gbARmgMRC
 ggxUb
 gateway
 glue
+grouped
+goes
 with
 winning
 wives
@@ -282651,6 +282676,7 @@ LPLV
 LtLnM
 Learn
 Logic
+Licensing
 Good
 Guide
 Gi
@@ -290370,6 +290396,7 @@ Governance
 GPIf
 Gjch
 GKzz
+Gbps
 review
 reviews
 retrieval
@@ -298415,6 +298442,7 @@ resolve
 readwise
 recommend
 replace
+racks
 It
 Instead
 In
@@ -314381,6 +314409,7 @@ flavors
 fCCc
 fastest
 followed
+fluctuate
 maintaining
 massed
 may
@@ -330570,6 +330599,7 @@ Recoveries
 Recall
 Redis
 Really
+Reversed
 like
 long
 learning
@@ -338338,6 +338368,8 @@ layer
 lavish
 lINI
 lSjX
+launched
+licensing
 not
 negligible
 noun
@@ -400639,6 +400671,8 @@ yUJy
 yearly
 yVEe
 yfRssvVYKsPruVr
+years
+yourself
 judgment
 jam
 jKv
@@ -416565,6 +416599,8 @@ vulnerabilities
 visualization
 vastly
 viewing
+vmware
+vCenter
 Elaboration
 Ez
 EW
@@ -424656,6 +424692,8 @@ Expedia
 Enhance
 Embracing
 Essentially
+ENIs
+Enhanced
 Putting
 People
 Prist
@@ -432375,6 +432413,7 @@ Polish
 Packet
 Psf
 PNNwMePS
+Placement
 Dipstick
 Document
 Declarations
@@ -448049,6 +448088,7 @@ Only
 ObsIZQ
 Obsd
 ObspNtKXozVUm
+Outposts
 Java
 January
 Jo
@@ -463465,6 +463505,7 @@ VLSM
 VDDRpStsG
 VPCs
 Visa
+Vmware
 You
 Yc
 Yf
@@ -494707,6 +494748,7 @@ zTZg
 zhntG
 zaBY
 zIJn
+zone
 Qr
 QxB
 Qip
