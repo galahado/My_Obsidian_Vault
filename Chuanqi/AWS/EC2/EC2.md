@@ -26,23 +26,18 @@ virtual networking cards
 ENI Elastic Network Interface basic networking low cost multiple ENIs for separate management/logging/production networks **** EN Enhanced Networking when you need speed between 10 and 100 Gbps ***** 2 types ****** ENA: Elastic Network Adapter speed: 10 - 100 Gbps ****** VF: Intel 82599 Virtual Function Interface speed: up to 10 Gbps **** EFA Elastic Fabric Adapter OS-bypass ***** when you need to accelerate High performance computing(HPC) Machine Learning applications 
 
 ## Placement Groups 
-cluster 
-
+### cluster 
 all instances are grouped into one single availability zone low network latency high network throughput
 
-spread 
-
+### spread 
 a group of instances each placed on distinct underlying hardware individual critical EC2 instances
 
-partition 
-
+### partition 
 each partition placement group has its own set of racks each rack has its own network and power source multiple EC2 instances HDFS, HBase, Cassandra 
 
-different types of instances cannot launched in one placement group 
-
-you cannot merge placement groups 
-
-you can move an existing instance into a placement group 
+- different types of instances cannot launched in one placement group 
+- you cannot merge placement groups 
+- you can move an existing instance into a placement group 
 
 ## Licensing 
 when asked about licensing, you should consider Dedicated Host 
@@ -60,11 +55,11 @@ spot fleet
 
 a collection of Spot instances and (optional) On-Demand instances 
 
-Vmware Cloud
+## Vmware Cloud
 
 vmware vCenter can be deployed on AWS cloud 
 
-Outposts 
+## Outposts 
 
 when talking about bringing AWS to your data center, you should consider AWS Outposts
 
