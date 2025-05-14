@@ -282675,7 +282675,6 @@ Leverage
 LPLV
 LtLnM
 Learn
-Logic
 Licensing
 Good
 Guide
@@ -440210,7 +440209,6 @@ Deployment
 DdwJ
 Donald
 Distro
-Digital
 OCP
 Overview
 OMZ
