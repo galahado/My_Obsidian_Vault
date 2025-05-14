@@ -44,24 +44,21 @@ when asked about licensing, you should consider Dedicated Host
 
 ## Spot Fleets
 ### spot block 
-
 you can use it to stop your spot instances from being terminated even if the spot price is goes over your max spot price 
 
-time limit 
-
+### time limit 
 1 - 6 Hours
 
-spot fleet 
-
+### spot fleet 
 a collection of Spot instances and (optional) On-Demand instances 
 
 ## Vmware Cloud
 
-vmware vCenter can be deployed on AWS cloud 
+vmware vCenter can be deployed on AWS cloud
 
-## Outposts 
+## AWS Outposts 
 
-when talking about bringing AWS to your data center, you should consider AWS Outposts
+when talking about bringing AWS to your data center, you should consider _AWS Outposts_
 
 Outposts rack
 
