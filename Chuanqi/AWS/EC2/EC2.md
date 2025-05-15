@@ -3,16 +3,12 @@ Elastic Compute Cloud
 ## Pricing Options 
 ### On-Demand 
 you pay for what you use 
-
 ### Reversed 
 reserve capacity for 1 to 3 years you got up to 72% discount 
-
 ### Spot 
 purchase unused capacity you got up to 90% discount prices fluctuate with supply and demand suit for application that has flexible start and end times 
-
 ### Dedicated 
 you use the target server by yourself
-
 ## User Data vs. Metadata 
 user data is just bootstrap scripts 
 metadata is data about your EC2 instances
@@ -22,7 +18,20 @@ curl http://ip/latest/meta-data/local-ipv4
 ### virtual networking cards 
 #### ENI 
 Elastic Network Interface 
-basic networking low cost multiple ENIs for separate management/logging/production networks **** EN Enhanced Networking when you need speed between 10 and 100 Gbps ***** 2 types ****** ENA: Elastic Network Adapter speed: 10 - 100 Gbps ****** VF: Intel 82599 Virtual Function Interface speed: up to 10 Gbps **** EFA Elastic Fabric Adapter OS-bypass ***** when you need to accelerate High performance computing(HPC) Machine Learning applications 
+basic networking low cost 
+multiple ENIs for separate management/logging/production networks  
+
+#### EN 
+Enhanced Networking 
+when you need speed between 10 and 100 Gbps 
+* 2 types 
+	* ENA: Elastic Network Adapter 
+		* speed: 10 - 100 Gbps 
+	* VF: Intel 82599 Virtual Function Interface 
+		* speed: up to 10 Gbps 
+#### EFA Elastic Fabric Adapter 
+OS-bypass 
+when you need to accelerate High performance computing(HPC) Machine Learning applications 
 
 ## Placement Groups 
 ### cluster 
