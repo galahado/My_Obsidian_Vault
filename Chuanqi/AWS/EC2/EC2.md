@@ -1,3 +1,7 @@
+---
+tags:
+  - review
+---
 Elastic Compute Cloud 
 ## Pricing Options 
 ### On-Demand 
