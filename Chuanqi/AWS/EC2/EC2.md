@@ -1,5 +1,4 @@
 Elastic Compute Cloud 
-
 ## Pricing Options 
 ### On-Demand 
 you pay for what you use 
@@ -20,7 +19,6 @@ curl http://ip/latest/meta-data/local-ipv4
 Elastic Network Interface 
 basic networking low cost 
 multiple ENIs for separate management/logging/production networks  
-
 #### EN 
 Enhanced Networking 
 when you need speed between 10 and 100 Gbps 
@@ -32,14 +30,11 @@ when you need speed between 10 and 100 Gbps
 #### EFA Elastic Fabric Adapter 
 OS-bypass 
 when you need to accelerate High performance computing(HPC) Machine Learning applications 
-
 ## Placement Groups 
 ### cluster 
 all instances are grouped into one single availability zone low network latency high network throughput
-
 ### spread 
 a group of instances each placed on distinct underlying hardware individual critical EC2 instances
-
 ### partition 
 each partition placement group has its own set of racks each rack has its own network and power source multiple EC2 instances HDFS, HBase, Cassandra 
 
@@ -63,9 +58,7 @@ vmware vCenter can be deployed on AWS cloud
 ## AWS Outposts 
 
 when talking about bringing AWS to your data center, you should consider _AWS Outposts_
-
 ### Outposts rack
 for large deployment
-
 ### Outposts servers
 for smaller deployment
