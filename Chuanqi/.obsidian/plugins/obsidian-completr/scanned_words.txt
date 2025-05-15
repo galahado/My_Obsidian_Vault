@@ -282678,6 +282678,8 @@ LPLV
 LtLnM
 Learn
 Licensing
+Launching
+Linux
 Good
 Guide
 Gi
@@ -290398,6 +290400,7 @@ GPIf
 Gjch
 GKzz
 Gbps
+Graviton
 review
 reviews
 retrieval
@@ -298444,6 +298447,7 @@ readwise
 recommend
 replace
 racks
+runtimes
 It
 Instead
 In
@@ -338371,6 +338375,7 @@ lINI
 lSjX
 launched
 licensing
+launching
 not
 negligible
 noun
@@ -346143,6 +346148,7 @@ never
 negotiate
 nRlR
 note
+needed
 quizzing
 quickly
 quick
@@ -408766,6 +408772,7 @@ jxMq
 jSix
 jehO
 json
+jobs
 verb
 very
 vertical
@@ -416602,6 +416609,7 @@ vastly
 viewing
 vmware
 vCenter
+vCPUs
 Elaboration
 Ez
 EW
