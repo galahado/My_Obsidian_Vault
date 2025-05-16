@@ -2,7 +2,11 @@
 aliases:
   - AZ
 ---
-each region has many availability zones
-each AZ comprises one or more discrete data centers with redunan
-and these are physically separated from other **availability zones**
-but, they’re connected with low latency, highly available, and high bandwidth links
+## Availability Zone
+- each region has many availability zones
+	- usually 3
+	- min is 3
+	- max is 6
+- each AZ comprises one or more discrete data centers with redundant power, networking and connectivity
+- they are physically separated from each other
+- they’re connected with low latency, highly available, and high bandwidth links
