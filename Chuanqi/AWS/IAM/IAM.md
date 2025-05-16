@@ -14,12 +14,12 @@ tags:
 * ![[IAM Overview.png]]
 ## Components of IAM
 * [[Entities]]
-	* [[IAM User]]
-	* [[IAM Role]]
-* [[IAM Identity]]
-	* [[IAM User]]
-	* [[IAM Role]]
-	* [[IAM Group]]
+	* [[User]]
+	* [[Role]]
+* [[Identity]]
+	* [[User]]
+	* [[Role]]
+	* [[Group]]
 * [[Principle]]
 	* ![[Pasted image 20250328123126.png]]
 ## How IAM work?
