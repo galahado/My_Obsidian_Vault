@@ -1,4 +1,3 @@
 ---
-aliases:
-  - IAM Identities
+aliases: []
 ---
