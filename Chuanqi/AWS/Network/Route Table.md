@@ -1,6 +1,6 @@
 ---
 tags:
-  - review
+  - aws
 sr-due: 2025-04-23
 sr-interval: 3
 sr-ease: 250
