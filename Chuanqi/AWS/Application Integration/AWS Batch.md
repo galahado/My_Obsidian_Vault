@@ -1,3 +1,7 @@
+---
+tags:
+  - aws/application_integration
+---
 ## Launching 
 [[Fargate]] is the recommended way of launching most batch jobs
 EC2 is the best choice when

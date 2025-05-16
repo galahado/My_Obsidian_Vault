@@ -2,9 +2,9 @@
 aliases:
   - AZ
 tags:
-  - review
-sr-due: 2025-05-19
-sr-interval: 3
+  - aws
+sr-due: 2025-05-24
+sr-interval: 8
 sr-ease: 250
 ---
 ## Availability Zone
