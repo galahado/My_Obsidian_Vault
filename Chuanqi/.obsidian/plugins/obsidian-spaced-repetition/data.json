@@ -25,7 +25,10 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#aws",
+      "#math",
+      "#cs",
+      "#finance"
     ],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"

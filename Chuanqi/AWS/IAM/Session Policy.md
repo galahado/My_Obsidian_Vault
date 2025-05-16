@@ -1,1 +1,0 @@
-* it sets the permission upper bound during a session when a role is assumed

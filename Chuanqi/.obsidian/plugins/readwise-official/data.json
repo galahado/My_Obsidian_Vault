@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "60",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 19879309,
-  "currentSyncStatusID": 20243247,
+  "lastSavedStatusID": 20243247,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "46755902",
@@ -77,11 +77,12 @@
     "44761426",
     "50147605",
     "46201737",
-    "43735138",
     "42426755",
     "46930537"
   ],
   "failedBooks": [],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "Readwise/Books/Sophie's World A Novel About the History of Philosophy.md": "43735138"
+  },
   "reimportShowConfirmation": true
 }

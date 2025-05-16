@@ -1,3 +1,7 @@
+---
+aliases:
+  - Point of Presence
+---
 part of [[CloudFront]] network
 used for cache
 
