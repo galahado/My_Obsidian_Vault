@@ -5,6 +5,7 @@ sr-due: 2025-04-23
 sr-interval: 3
 sr-ease: 250
 ---
+## Definition
 * Routes are configured in the Route Table
     - Routes define how traffic is directed between [[Subnet]], internet, and other network resources  
 - contains a set of rules directing network traffic within a Virtual Private Cloud(VPC)
