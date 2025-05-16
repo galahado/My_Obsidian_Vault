@@ -1,3 +1,10 @@
+---
+tags:
+  - aws/iam
+sr-due: 2025-05-19
+sr-interval: 3
+sr-ease: 250
+---
 * ### Why IAM Roles are useful
 	* similar to [[IAM User]], it's an identity with [[Identity-based Policies]] attached to it
 	* can be used to provide access to any entity within or outside the AWS account
