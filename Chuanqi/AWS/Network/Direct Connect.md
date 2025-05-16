@@ -8,7 +8,7 @@ sr-ease: 250
 ---
 ## Definition
  What is direct connect? :: dedicated _private connection_ from our on-premises network to the VPC
-<!--SR:!2025-04-27,3,250-->
+<!--SR:!2025-05-24,8,250-->
 ## Types
 ### Dedicated Connection
 physical connection given to a single customer
