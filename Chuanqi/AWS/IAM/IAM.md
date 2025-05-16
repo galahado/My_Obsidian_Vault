@@ -19,7 +19,7 @@ tags:
 * [[IAM Identity]]
 	* [[IAM User]]
 	* [[IAM Role]]
-	* [[Group]]
+	* [[IAM Group]]
 * [[Principle]]
 	* ![[Pasted image 20250328123126.png]]
 ## How IAM work?
