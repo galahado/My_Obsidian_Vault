@@ -16,5 +16,8 @@ tags:
 ## SnapStart
 * function is invoked from a pre-initialized state instead of from scratch
 ## Customization At The Edge
-* CloudFront Functions
-* Lambda@Edge
+* [[CloudFront Function]]
+* [[Lambda@Edge]]
+## VPC
+* By default, your Lambda function is launched outside your own VPC
+* to run the Lambda in you VPC, You must define the VPC ID, the Subnets and the Security Groups. Lambda will create an [[ENI]] in your [[Subnet]]
