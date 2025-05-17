@@ -34,7 +34,6 @@ metadata is data about your EC2 instances
 ### get meta data using curl 
 curl http://ip/latest/meta-data/local-ipv4 
 ## Placement Groups 
-
 ### cluster 
 all instances are grouped into one single availability zone low network latency high network throughput
 ### spread 
