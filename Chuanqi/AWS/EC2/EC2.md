@@ -33,23 +33,6 @@ user data is just bootstrap scripts
 metadata is data about your EC2 instances
 ### get meta data using curl 
 curl http://ip/latest/meta-data/local-ipv4 
-## Networking
-### virtual networking cards 
-#### ENI 
-Elastic Network Interface 
-basic networking low cost 
-multiple ENIs for separate management/logging/production networks  
-#### EN 
-Enhanced Networking 
-when you need speed between 10 and 100 Gbps 
-* 2 types 
-	* ENA: Elastic Network Adapter 
-		* speed: 10 - 100 Gbps 
-	* VF: Intel 82599 Virtual Function Interface 
-		* speed: up to 10 Gbps 
-#### EFA Elastic Fabric Adapter 
-OS-bypass 
-when you need to accelerate High performance computing(HPC) Machine Learning applications 
 ## Placement Groups 
 
 ### cluster 
