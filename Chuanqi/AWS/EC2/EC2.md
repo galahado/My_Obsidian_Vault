@@ -77,6 +77,4 @@ when talking about bringing AWS to your data center, you should consider _AWS Ou
 ### Outposts rack
 for large deployment
 ### Outposts servers
-
-
 for smaller deployment
