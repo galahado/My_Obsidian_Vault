@@ -1,23 +1,12 @@
 ---
-
-
 tags:
-
-
   - review
-
-
 sr-due: 2025-05-18
-
-
 sr-interval: 3
-
-
 sr-ease: 250
-
-
+aliases:
+  - Elastic Compute Cloud
 ---
-Elastic Compute Cloud 
 
 ## Pricing Options 
 ### On-Demand 
@@ -33,16 +22,6 @@ user data is just bootstrap scripts
 metadata is data about your EC2 instances
 ### get meta data using curl 
 curl http://ip/latest/meta-data/local-ipv4 
-## Placement Groups 
-### cluster 
-all instances are grouped into one single availability zone low network latency high network throughput
-### spread 
-a group of instances each placed on distinct underlying hardware individual critical EC2 instances
-### partition 
-each partition placement group has its own set of racks each rack has its own network and power source multiple EC2 instances HDFS, HBase, Cassandra 
-- different types of instances cannot launched in one placement group 
-- you cannot merge placement groups 
-- you can move an existing instance into a placement group 
 ## Dedicated Host
 when asked about licensing, you should consider Dedicated Host 
 ## Spot Fleets
