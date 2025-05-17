@@ -80177,6 +80177,7 @@ bthfKMW
 bLtLe
 bootstrap
 bypass
+behalf
 Summary
 Sun
 Spot
@@ -93460,6 +93461,7 @@ SPeG
 Scan
 Subnets
 Subnet
+Secret
 Highlights
 His
 HotSpot
@@ -132604,6 +132606,8 @@ akpA
 aLYPodolc
 accelerate
 asked
+average
+assign
 Biden
 Bj
 BY
@@ -145349,6 +145353,7 @@ BCpAG
 Balancer
 Billing
 ByGH
+Boundary
 is
 investigations
 into
@@ -159211,6 +159216,7 @@ initiating
 inspect
 iCCPICC
 iAlNd
+incur
 taking
 to
 tax
@@ -172369,6 +172375,7 @@ tunnel
 triggering
 terminated
 talking
+talks
 steps
 support
 scolded
@@ -185672,6 +185679,8 @@ subscriber
 scripts
 spot
 servers
+successor
+saves
 prevent
 partnerships
 play
@@ -198341,6 +198350,7 @@ purchase
 prices
 partition
 placement
+password
 dodging
 domestic
 decade
@@ -211635,10 +211645,12 @@ dual
 deny
 dedicated
 dggI
-discrete
-depending
 discount
 deployed
+discrete
+depending
+durability
+denies
 collect
 clean
 compliance
@@ -224985,9 +224997,10 @@ compatible
 communications
 convention
 capture
-connectivity
-customization
 cards
+customization
+connectivity
+contents
 over
 ongoing
 or
@@ -237702,6 +237715,7 @@ oOhMo
 older
 ohKc
 optional
+operating
 energy
 eating
 existed
@@ -251008,6 +251022,7 @@ enabled
 encrypt
 entry
 endpoint
+expect
 goals
 gamesmanship
 games
@@ -282680,6 +282695,7 @@ Leverage
 LPLV
 LtLnM
 Learn
+Licensing
 Launching
 Linux
 Good
@@ -290401,8 +290417,8 @@ Governance
 GPIf
 Gjch
 GKzz
-Graviton
 Gbps
+Graviton
 review
 reviews
 retrieval
@@ -298443,15 +298459,17 @@ returns
 regq
 rngdv
 respond
+receivers
 resolve
 readwise
 recommend
 replace
-receivers
-redundant
-runtimes
-readily
 racks
+runtimes
+redundant
+readily
+reports
+root
 It
 Instead
 In
@@ -338377,9 +338395,9 @@ layer
 lavish
 lINI
 lSjX
-launching
 launched
 licensing
+launching
 not
 negligible
 noun
@@ -369744,6 +369762,8 @@ however
 holding
 holds
 happening
+hibernation
+hibernated
 Kentucky
 Kx
 Ki
@@ -377637,6 +377657,7 @@ KVwUQ
 Kinesis
 KoWE
 Kubernetes
+Keys
 Note
 New
 Nv
@@ -393070,6 +393091,7 @@ unreasonable
 underlying
 uncertainty
 usually
+username
 yields
 your
 you
@@ -400683,9 +400705,9 @@ yUJy
 yearly
 yVEe
 yfRssvVYKsPruVr
-year
 years
 yourself
+year
 judgment
 jam
 jKv
@@ -416613,9 +416635,9 @@ vulnerabilities
 visualization
 vastly
 viewing
-vCPUs
 vmware
 vCenter
+vCPUs
 Elaboration
 Ez
 EW
@@ -432429,7 +432451,6 @@ Packet
 Psf
 PNNwMePS
 Placement
-Presence
 Dipstick
 Document
 Declarations
@@ -448104,6 +448125,9 @@ ObsIZQ
 Obsd
 ObspNtKXozVUm
 Outposts
+ObsQUwxphsUha
+OpenSearch
+ObsEGJoHaQxonZS
 Java
 January
 Jo
@@ -463520,8 +463544,9 @@ VLSM
 VDDRpStsG
 VPCs
 Visa
-Varies
 Vmware
+Varies
+VLRZrbmqh
 You
 Yc
 Yf
@@ -502476,6 +502501,7 @@ QMZu
 Qoiut
 QEfP
 QuickSight
+QrVQSfWK
 xT
 xz
 xW
