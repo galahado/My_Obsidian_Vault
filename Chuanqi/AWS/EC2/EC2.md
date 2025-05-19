@@ -7,7 +7,8 @@ sr-ease: 250
 aliases:
   - Elastic Compute Cloud
 ---
-
+## Provisioning
+* [[AMI]]
 ## Pricing Options 
 ### On-Demand 
 you pay for what you use 
