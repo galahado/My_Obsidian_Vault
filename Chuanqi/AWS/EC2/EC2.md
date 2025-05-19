@@ -16,7 +16,12 @@ aliases:
 	* accelerated computing
 	* storage optimized
 ## Configuration
+* [[Region]]
 * [[Virtual Private Cloud|VPC]]
+* tenancy
+	* shared
+	* dedicated host
+		* when asked about licensing, you should consider *Dedicated Host*
 ## Pricing Options 
 ### On-Demand 
 you pay for what you use 
@@ -31,8 +36,7 @@ user data is just bootstrap scripts
 metadata is data about your EC2 instances
 ### get meta data using curl 
 curl http://ip/latest/meta-data/local-ipv4 
-## Dedicated Host
-when asked about licensing, you should consider Dedicated Host 
+
 ## Spot Fleets
 ### spot block 
 you can use it to stop your spot instances from being terminated even if the spot price is goes over your max spot price 
