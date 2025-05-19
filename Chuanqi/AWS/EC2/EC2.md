@@ -9,6 +9,14 @@ aliases:
 ---
 ## Provisioning
 * [[AMI]]
+* instance types
+	* general purpose
+	* compute optimized
+	* memory optimized
+	* accelerated computing
+	* storage optimized
+## Configuration
+* [[Virtual Private Cloud|VPC]]
 ## Pricing Options 
 ### On-Demand 
 you pay for what you use 
