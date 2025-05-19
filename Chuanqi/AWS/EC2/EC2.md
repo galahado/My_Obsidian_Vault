@@ -1,6 +1,6 @@
 ---
 tags:
-  - review
+  - aws/ec2
 sr-due: 2025-05-18
 sr-interval: 3
 sr-ease: 250
