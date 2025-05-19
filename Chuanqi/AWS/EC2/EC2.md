@@ -22,6 +22,8 @@ aliases:
 	* shared
 	* dedicated host
 		* when asked about licensing, you should consider *Dedicated Host*
+## Configure Behavior
+* [[Placement Group]]
 ## Pricing Options 
 ### On-Demand 
 you pay for what you use 
