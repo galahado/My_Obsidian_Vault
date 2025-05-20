@@ -39,18 +39,5 @@ metadata is data about your EC2 instances
 ### get meta data using curl 
 curl http://ip/latest/meta-data/local-ipv4 
 
-## Spot Fleets
-### spot block 
-you can use it to stop your spot instances from being terminated even if the spot price is goes over your max spot price 
-### time limit 
-1 - 6 Hours
-### spot fleet 
-a collection of Spot instances and (optional) On-Demand instances 
-## Vmware Cloud
-vmware vCenter can be deployed on AWS cloud
-## AWS Outposts 
-when talking about bringing AWS to your data center, you should consider _AWS Outposts_
-### Outposts rack
-for large deployment
-### Outposts servers
-for smaller deployment
+
+
