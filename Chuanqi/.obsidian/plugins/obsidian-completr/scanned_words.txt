@@ -13855,7 +13855,6 @@ Measurements
 MELUk
 MBxASqU
 Misc
-Machines
 Author
 Adidas
 AM
@@ -27849,8 +27848,6 @@ AppSync
 ALLOW
 AYkVm
 Adapter
-AMIs
-Auto
 Full
 Filter
 FlateDecode
@@ -54422,8 +54419,6 @@ TGqOm
 Traces
 ToZTuOIB
 TFCPUQ
-Throttling
-ThrottleError
 Category
 China
 Chided
@@ -67177,10 +67172,6 @@ CloudFormation
 Cheatsheet
 Cedq
 Cassandra
-Customization
-CloudFront
-Community
-Configure
 books
 billion
 balance
@@ -80186,6 +80177,7 @@ bthfKMW
 bLtLe
 bootstrap
 bypass
+behalf
 Summary
 Sun
 Spot
@@ -93470,7 +93462,6 @@ Scan
 Subnets
 Subnet
 Secret
-SnapStart
 Highlights
 His
 HotSpot
@@ -132615,7 +132606,8 @@ akpA
 aLYPodolc
 accelerate
 asked
-anymore
+average
+assign
 Biden
 Bj
 BY
@@ -145361,6 +145353,7 @@ BCpAG
 Balancer
 Billing
 ByGH
+Boundary
 is
 investigations
 into
@@ -159223,8 +159216,7 @@ initiating
 inspect
 iCCPICC
 iAlNd
-invoked
-initialized
+incur
 taking
 to
 tax
@@ -172383,7 +172375,7 @@ tunnel
 triggering
 terminated
 talking
-tenancy
+talks
 steps
 support
 scolded
@@ -185687,6 +185679,7 @@ subscriber
 scripts
 spot
 servers
+successor
 saves
 prevent
 partnerships
@@ -198358,8 +198351,6 @@ prices
 partition
 placement
 password
-pioneered
-paradigm
 dodging
 domestic
 decade
@@ -211657,6 +211648,9 @@ dggI
 discount
 deployed
 discrete
+depending
+durability
+denies
 collect
 clean
 compliance
@@ -225005,10 +224999,8 @@ convention
 capture
 cards
 customization
-contents
-concurrency
-cold
 connectivity
+contents
 over
 ongoing
 or
@@ -251030,6 +251022,7 @@ enabled
 encrypt
 entry
 endpoint
+expect
 goals
 gamesmanship
 games
@@ -282703,6 +282696,8 @@ LPLV
 LtLnM
 Learn
 Licensing
+Launching
+Linux
 Good
 Guide
 Gi
@@ -290423,6 +290418,7 @@ GPIf
 Gjch
 GKzz
 Gbps
+Graviton
 review
 reviews
 retrieval
@@ -298469,8 +298465,11 @@ readwise
 recommend
 replace
 racks
-root
+runtimes
 redundant
+readily
+reports
+root
 It
 Instead
 In
@@ -330628,7 +330627,6 @@ Recall
 Redis
 Really
 Reversed
-Restriction
 like
 long
 learning
@@ -338399,6 +338397,7 @@ lINI
 lSjX
 launched
 licensing
+launching
 not
 negligible
 noun
@@ -346171,7 +346170,7 @@ never
 negotiate
 nRlR
 note
-naming
+needed
 quizzing
 quickly
 quick
@@ -393091,8 +393090,8 @@ upgrade
 unreasonable
 underlying
 uncertainty
-username
 usually
+username
 yields
 your
 you
@@ -400708,6 +400707,7 @@ yVEe
 yfRssvVYKsPruVr
 years
 yourself
+year
 judgment
 jam
 jKv
@@ -408800,6 +408800,7 @@ jxMq
 jSix
 jehO
 json
+jobs
 verb
 very
 vertical
@@ -416636,6 +416637,7 @@ vastly
 viewing
 vmware
 vCenter
+vCPUs
 Elaboration
 Ez
 EW
@@ -432449,7 +432451,6 @@ Packet
 Psf
 PNNwMePS
 Placement
-Provisioning
 Dipstick
 Document
 Declarations
@@ -448124,6 +448125,9 @@ ObsIZQ
 Obsd
 ObspNtKXozVUm
 Outposts
+ObsQUwxphsUha
+OpenSearch
+ObsEGJoHaQxonZS
 Java
 January
 Jo
@@ -463541,6 +463545,8 @@ VDDRpStsG
 VPCs
 Visa
 Vmware
+Varies
+VLRZrbmqh
 You
 Yc
 Yf
@@ -502495,6 +502501,7 @@ QMZu
 Qoiut
 QEfP
 QuickSight
+QrVQSfWK
 xT
 xz
 xW
