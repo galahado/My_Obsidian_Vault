@@ -4,4 +4,4 @@ tags:
 ---
 IOPS::input/output operations per second
 
-AWS measures storage performance in IOPS
+AWS measures storage performance in _IOPS_
