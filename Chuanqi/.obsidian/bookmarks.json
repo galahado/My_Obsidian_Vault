@@ -3,7 +3,7 @@
     {
       "type": "file",
       "ctime": 1716195609422,
-      "path": "Computer System/Computer Science.canvas"
+      "path": "Computer/Computer System/Computer Science.canvas"
     },
     {
       "type": "group",
@@ -70,66 +70,6 @@
         },
         {
           "type": "group",
-          "ctime": 1745334460436,
-          "items": [],
-          "title": "Computer System"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334460436,
-          "items": [],
-          "title": "Complier"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334460436,
-          "items": [],
-          "title": "OS"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334460436,
-          "items": [],
-          "title": "Network"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334460436,
-          "items": [],
-          "title": "AI"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334327738,
-          "items": [],
-          "title": "Linux"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334327738,
-          "items": [],
-          "title": "AWS"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334311729,
-          "items": [],
-          "title": "Assembly"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334327738,
-          "items": [],
-          "title": "C&C++"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334327738,
-          "items": [],
-          "title": "Java"
-        },
-        {
-          "type": "group",
           "ctime": 1745330857619,
           "items": [],
           "title": "Finance"
@@ -139,18 +79,6 @@
           "ctime": 1745330389402,
           "path": "Untitled.canvas",
           "subpath": "#^-"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334692964,
-          "items": [],
-          "title": "Analysis"
-        },
-        {
-          "type": "group",
-          "ctime": 1745334692964,
-          "items": [],
-          "title": "Linear Algebra"
         }
       ],
       "title": "sortspec"
