@@ -172384,6 +172384,7 @@ triggering
 terminated
 talking
 tenancy
+talks
 steps
 support
 scolded
@@ -185688,6 +185689,7 @@ scripts
 spot
 servers
 saves
+successor
 prevent
 partnerships
 play
@@ -274988,6 +274990,7 @@ waves
 wireless
 whBF
 woQuw
+warehouse
 Looks
 Learning
 Linearized
@@ -298471,6 +298474,7 @@ replace
 racks
 root
 redundant
+reports
 It
 Instead
 In
@@ -330629,6 +330633,7 @@ Redis
 Really
 Reversed
 Restriction
+Redshift
 like
 long
 learning
@@ -432450,6 +432455,7 @@ Psf
 PNNwMePS
 Placement
 Provisioning
+PostgreSQL
 Dipstick
 Document
 Declarations
@@ -448124,6 +448130,9 @@ ObsIZQ
 Obsd
 ObspNtKXozVUm
 Outposts
+ObsQUwxphsUha
+OpenSearch
+ObsEGJoHaQxonZS
 Java
 January
 Jo
@@ -463541,6 +463550,7 @@ VDDRpStsG
 VPCs
 Visa
 Vmware
+VLRZrbmqh
 You
 Yc
 Yf
@@ -502495,6 +502505,7 @@ QMZu
 Qoiut
 QEfP
 QuickSight
+QrVQSfWK
 xT
 xz
 xW
