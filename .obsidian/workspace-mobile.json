@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "58e0fbdd025557c7",
+        "id": "3e9c5687268b565f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ddaf18db44a1de",
+            "id": "b109b73e8c505024",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chuanqi/10_Computer Science/AWS/IAM/Permission Boundary.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Permission Boundary"
+              "title": "New tab"
             }
           }
         ]
@@ -154,8 +150,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ddaf18db44a1de",
+  "active": "b109b73e8c505024",
   "lastOpenFiles": [
+    "Chuanqi/AWS/Database/OLAP.md",
+    "Test.md",
     "Chuanqi/10_Computer Science/AWS/IAM/IAM Policy.md",
     "Chuanqi/10_Computer Science/AWS/IAM/Permission Boundary.md",
     "Chuanqi/10_Computer Science/AWS/IAM/Session Policy.md",
