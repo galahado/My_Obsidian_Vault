@@ -6057,6 +6057,7 @@ var DEFAULT_SETTINGS = {
   inFileMaxDisplayLengthAroundMatchedWord: 64,
   // Grep
   ripgrepCommand: "rg",
+  grepSearchDelayMilliSeconds: 0,
   grepExtensions: ["md"],
   maxDisplayLengthAroundMatchedWord: 64,
   // Move file to another folder
@@ -6696,6 +6697,18 @@ ${invalidValues.map((x) => `- ${x}`).join("\n")}
         await this.plugin.saveSettings();
       })
     );
+    new import_obsidian3.Setting(containerEl).setName("Grep search delay milli-seconds").setDesc(
+      "If set to 1 or more, the search will be executed automatically after the specified milliseconds have passed since entering a keyword. If set to 0, the search will only be executed when the hotkey is pressed."
+    ).addSlider(
+      (sc) => sc.setLimits(0, 1e3, 10).setValue(this.plugin.settings.grepSearchDelayMilliSeconds).setDynamicTooltip().onChange(async (value) => {
+        this.plugin.settings.grepSearchDelayMilliSeconds = value;
+        await this.plugin.saveSettings();
+      })
+    );
+    containerEl.createEl("div", {
+      text: "! Please note that on Windows, the initial file access speed may be significantly slower.",
+      cls: "another-quick-switcher__settings__warning"
+    });
     new import_obsidian3.Setting(containerEl).setName("Extensions").addText(
       (tc) => tc.setPlaceholder("(ex: md,html,css)").setValue(this.plugin.settings.grepExtensions.join(",")).onChange(async (value) => {
         this.plugin.settings.grepExtensions = smartCommaSplit(value);
@@ -8527,6 +8540,10 @@ var GrepModal = class extends import_obsidian7.SuggestModal {
       "keydown",
       this.clonedInputElKeydownEventListener
     );
+    this.clonedInputEl.removeEventListener(
+      "input",
+      this.clonedInputElInputEventListener
+    );
     this.basePathInputEl.removeEventListener(
       "change",
       this.basePathInputElChangeEventListener
@@ -8762,6 +8779,21 @@ var GrepModal = class extends import_obsidian7.SuggestModal {
       "keydown",
       this.clonedInputElKeydownEventListener
     );
+    if (this.settings.grepSearchDelayMilliSeconds > 0) {
+      this.clonedInputElInputEventListener = (0, import_obsidian7.debounce)(
+        () => {
+          this.currentQuery = this.clonedInputEl.value;
+          this.inputEl.value = this.currentQuery;
+          this.inputEl.dispatchEvent(new Event("input"));
+        },
+        this.settings.grepSearchDelayMilliSeconds,
+        true
+      );
+      this.clonedInputEl.addEventListener(
+        "input",
+        this.clonedInputElInputEventListener
+      );
+    }
     this.registerKeys("up", () => {
       document.dispatchEvent(new KeyboardEvent("keydown", { key: "ArrowUp" }));
     });
