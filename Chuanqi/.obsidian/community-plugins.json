@@ -1,18 +1,9 @@
 [
-  "canvas-links",
-  "obsidian-tasks-plugin",
-  "obsidian-git",
   "obsidian-vimrc-support",
-  "vim-yank-highlight",
-  "obsidian-relative-line-numbers",
-  "mrj-jump-to-link",
-  "obsidian-another-quick-switcher",
-  "obsidian-completr",
-  "obsidian-hider",
-  "fast-text-color",
-  "obsidian-style-settings",
-  "obsidian-outliner",
-  "obsidian-spaced-repetition",
   "pdf-plus",
-  "readwise-official"
+  "readwise-official",
+  "obsidian-another-quick-switcher",
+  "canvas-links",
+  "obsidian-completr",
+  "obsidian-git"
 ]
