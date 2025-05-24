@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 20370179,
+  "lastSavedStatusID": 20373211,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -84,7 +84,8 @@
   "booksIDsMap": {
     "Readwise/Books/Sophie's World A Novel About the History of Philosophy.md": "43735138",
     "Readwise/Books/The Simple Path to Wealth Your Road Map to Financial Independence and a Rich, Free Life.md": "47441061",
-    "Readwise/Books/AWS Certified Solutions Architect Study Guide.md": "51212356"
+    "Readwise/Books/AWS Certified Solutions Architect Study Guide.md": "51212356",
+    "Readwise/Articles/Amazon Elastic Compute Cloud – Amazon EC2 Cheat Sheet.md": "51811988"
   },
   "reimportShowConfirmation": true
 }
