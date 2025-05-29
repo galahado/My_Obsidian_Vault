@@ -3,6 +3,9 @@ aliases:
   - SQS
 tags:
   - aws/application_integration
+sr-due: 2025-06-01
+sr-interval: 3
+sr-ease: 250
 ---
 [Lab: Getting Started with Amazon Simple Queue Service (SQS)](https://www.educative.io/cloudlabs/getting-started-with-amazon-simple-queue-service-sqs)
 [Lab: Working with SQS FIFO Queues](https://www.educative.io/cloudlabs/working-with-sqs-fifo-queues)
