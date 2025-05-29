@@ -11,6 +11,7 @@ tags:
 SQS Enables loosely coupled, scalable, and reliable communication between different application components. It acts as a highly available buffer for data exchanged between these components.
 
 delivery delay :: default is 0, can be set up to 15 minutes
+<!--SR:!2025-06-01,3,250-->
 
 message size limit :: up to 256 KB
 <!--SR:!2025-06-01,3,250-->
