@@ -11,6 +11,7 @@ How many read replicas can you have?
 ?
 * RDS: 5
 * Aurora: 15
+<!--SR:!2025-06-02,3,250-->
 
 ## Short come
 It's replicated asynchronously
