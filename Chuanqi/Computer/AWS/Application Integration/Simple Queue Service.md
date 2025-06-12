@@ -23,7 +23,7 @@ encrypted? :: in transit by default, but you can add at-rest
 <!--SR:!2025-06-01,3,250-->
 
 Message retention :: default is 4 days, available range is 1 minute - 14 days
-<!--SR:!2025-06-06,8,250-->
+<!--SR:!2025-06-16,4,230-->
 ### Polling
 Short Polling: The consumer receives an immediate response, but the queue might not be checked frequently enough to catch newly available messages.
 
