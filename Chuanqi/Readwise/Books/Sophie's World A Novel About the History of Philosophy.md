@@ -77,5 +77,15 @@
     - Tags: [[words]] 
     - Note: glistening (adjective)(glisten): shining with a sparkling or wet appearance; shimmering 闪闪发光的；闪亮的 ✨💧
 
-- matte ([View Highlight](https://read.readwise.io/read/01jw4mm6dr3zqzpt3vb2fnasad))
+- The glass was matte and scratched ([View Highlight](https://read.readwise.io/read/01jw4mm6dr3zqzpt3vb2fnasad))
+    - Tags: [[words]] 
+    - Note: matte (adjective)(matte): having a dull surface without shine; non-reflective 无光泽的，哑光的 🪞🔍
+
+- Soon she was having to wade through marshy ground ([View Highlight](https://read.readwise.io/read/01jw4qxy0kp5838x6pn8rn375e))
+    - Tags: [[words]] 
+    - Note: marshy (adjective)(marsh): characterized by wet, soggy, or swampy ground; often found in wetlands or low-lying areas; 潮湿的，沼泽的 🌿💧
+
+- daring trapeze flyers ([View Highlight](https://read.readwise.io/read/01jw4t78fs53v52r4q76azfgsv))
+    - Tags: [[words]] 
+    - Note: trapeze (noun)(trapeze): a swing used by acrobats for performing aerial stunts; a piece of circus equipment used for gymnastic performances 空中秋千 🎪🤸‍♀️
 
