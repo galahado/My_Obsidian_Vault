@@ -65,3 +65,17 @@
     - Tags: [[words]] 
     - Note: resolutely (adverb)(resolute): in a determined and unwavering manner; firmly 坚定地，果断地 💪🚀
 
+- Between the house and the boathouse was a sloping garden with an apple tree ([View Highlight](https://read.readwise.io/read/01jw4mb4jce85gt1sc817f7cp1))
+    - Tags: [[words]] 
+    - Note: sloping (adjective)(slope): inclined or slanted; not flat 斜的或倾斜的 🌄🌱
+
+- A dense fringe of birch trees framed the garden like a garland ([View Highlight](https://read.readwise.io/read/01jw4mc5ptfmjtw2vvgwrf2qaa))
+    - Tags: [[words]] 
+    - Note: garland (noun)(garland): a decorative wreath or chain made of flowers, leaves, or other materials; a celebration or honor 花环；荣誉 👑🌸
+
+- Plates and glasses were piled on a tea towel, some of them still glistening with drops of soapy water. ([View Highlight](https://read.readwise.io/read/01jw4mfjh7gkvdw97kvkk21vsz))
+    - Tags: [[words]] 
+    - Note: glistening (adjective)(glisten): shining with a sparkling or wet appearance; shimmering 闪闪发光的；闪亮的 ✨💧
+
+- matte ([View Highlight](https://read.readwise.io/read/01jw4mm6dr3zqzpt3vb2fnasad))
+
