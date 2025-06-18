@@ -1,2 +1,0 @@
-[Link](https://fidelity.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/26098284#overview)
-[Slides](file:///C:/Users/zhang/Documents/Github/Learning/Courses/AWS/Udemy-AWS_Architect_Associate/AWS_Certified_Solutions_Architect_Slides_v44.pdf)
