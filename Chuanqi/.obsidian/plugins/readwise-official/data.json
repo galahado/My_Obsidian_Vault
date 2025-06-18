@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "60",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 20683011,
-  "currentSyncStatusID": 20759391,
+  "lastSavedStatusID": 20759391,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "46755902",
@@ -77,7 +77,6 @@
     "44761426",
     "50147605",
     "46201737",
-    "42426755",
     "46930537"
   ],
   "failedBooks": [],
@@ -86,7 +85,8 @@
     "Readwise/Books/The Simple Path to Wealth Your Road Map to Financial Independence and a Rich, Free Life.md": "47441061",
     "Readwise/Books/AWS Certified Solutions Architect Study Guide.md": "51212356",
     "Readwise/Articles/Amazon Elastic Compute Cloud – Amazon EC2 Cheat Sheet.md": "51811988",
-    "Readwise/Books/The Story of the World, Vol 1.md": "52224820"
+    "Readwise/Books/The Story of the World, Vol 1.md": "52224820",
+    "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md": "42426755"
   },
   "reimportShowConfirmation": true
 }
