@@ -1,8 +1,0 @@
-- Site-to-Site VPN
-    - ![[Pasted image 20250420163656.png]]
-    - a connection between our on-premises resources and VPC on the cloud
-        - use public internet to communicate
-        - secure and encrypted
-- Virtual Private Gateway
-- Customer Gateway
-- Client VPN
