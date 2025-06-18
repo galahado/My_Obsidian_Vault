@@ -1,3 +1,0 @@
-naming convention
-
-types
