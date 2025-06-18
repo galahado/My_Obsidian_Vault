@@ -20,4 +20,10 @@
 
 - Battle of Hastings ([View Highlight](https://read.readwise.io/read/01h4vvh5bawg1y94zb7ywfs865))
     - Note: The Battle of Hastings was fought on October 14, 1066 in England between the Norman-French army and the English army led by King Harold Godwinson. The Norman-French army, led by William the Conqueror, was victorious, leading to the Norman Conquest of England and the end of Anglo-Saxon rule. The battle is considered a turning point in English history.
+## New highlights added June 18, 2025 at 7:23 AM
+- It was customary for the men in the family to remain on Simon’s homestead ([View Highlight](https://read.readwise.io/read/01jy194n0ckkpzjkzvnn473k63))
+    - Tags: [[words]] 
+    - Note: customary (adjective)(customary): traditional; usual 习俗的，惯常的 🏛️📜
+      ---
+      homestead (noun)(homestead): a house and its surrounding land; a self-sufficient farm 自给自足的农场及其周边土地 🏡🌾
 

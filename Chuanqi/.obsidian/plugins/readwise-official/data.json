@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 20759391,
+  "lastSavedStatusID": 20760019,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -86,7 +86,8 @@
     "Readwise/Books/AWS Certified Solutions Architect Study Guide.md": "51212356",
     "Readwise/Articles/Amazon Elastic Compute Cloud – Amazon EC2 Cheat Sheet.md": "51811988",
     "Readwise/Books/The Story of the World, Vol 1.md": "52224820",
-    "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md": "42426755"
+    "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md": "42426755",
+    "Readwise/Books/To Kill a Mockingbird.md": "52566457"
   },
   "reimportShowConfirmation": true
 }
