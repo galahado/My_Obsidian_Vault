@@ -330805,6 +330805,7 @@ RhHo
 RsRZ
 Reason
 Replica
+Readwise
 like
 long
 learning
@@ -440474,6 +440475,7 @@ DdwJ
 Donald
 Distro
 Democritus
+Defy
 OCP
 Overview
 OMZ
@@ -448359,6 +448361,7 @@ OLTP
 OJVa
 OZbP
 OLAP
+Odds
 Java
 January
 Jo

@@ -327,9 +327,12 @@
     - Tags: [[words]] 
     - Note: alveoli (noun)(alveolus): tiny air sacs in the lungs where gas exchange occurs; 肺中进行气体交换的小气囊 🌬️🫁
 
+<<<<<<< HEAD
 - Psycho Pete stomped the pocked asphalt ([View Highlight](https://read.readwise.io/read/01jy17w4e9773rx7tpvh7h57ka))
     - Tags: [[words]] 
     - Note: stomped (verb)(stomp): to step heavily or forcefully; to strike down with force 用力踩踏的 🥾💥
       ---
       pocked (adjective)(pock): marked by small holes or dents; damaged or pitted 受到小孔或凹痕的标记; 受损或凹陷的 🕳️🛤️
 
+=======
+>>>>>>> origin/main
