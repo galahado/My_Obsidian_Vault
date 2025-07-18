@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "60",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 20761522,
-  "currentSyncStatusID": 21221968,
+  "lastSavedStatusID": 21221968,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "46755902",
@@ -74,8 +74,6 @@
     "48500086",
     "49040563",
     "47915432",
-    "44761426",
-    "50147605",
     "46201737",
     "46930537"
   ],
@@ -87,7 +85,13 @@
     "Readwise/Articles/Amazon Elastic Compute Cloud – Amazon EC2 Cheat Sheet.md": "51811988",
     "Readwise/Books/The Story of the World, Vol 1.md": "52224820",
     "Readwise/Books/Can't Hurt Me Master Your Mind and Defy the Odds.md": "42426755",
-    "Readwise/Books/To Kill a Mockingbird.md": "52566457"
+    "Readwise/Books/To Kill a Mockingbird.md": "52566457",
+    "Readwise/Books/Computer Systems A Programmer's Perspective.md": "52838715",
+    "Readwise/Books/易中天中华史.md": "52806689",
+    "Readwise/Books/Linear Algebra Done Right(4E).md": "52887036",
+    "Readwise/Articles/Computer Systems(3E).md": "44761426",
+    "Readwise/Books/The Catcher in the Rye.md": "53156278",
+    "Readwise/Articles/Mathematics for Machine Learning.md": "50147605"
   },
   "reimportShowConfirmation": true
 }
