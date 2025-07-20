@@ -6,7 +6,7 @@
 - Author: [[Clinton, David;Piper, Ben;]]
 - Full Title: AWS Certified Solutions Architect Study Guide
 - Category: #books
-- Document Tags: [[aws]] 
+- Document Tags: [[AWS]] 
 - Summary: AWS manages the physical infrastructure of its cloud services, while customers are responsible for the configuration and security of their EC2 instances and data. The platform offers tools to help migrate applications to the cloud and ensures that most resources can automatically scale to meet demand. Additionally, AWS provides various security measures, including IAM policies and resource-based policies, to control access to services and data.
 
 ## Highlights

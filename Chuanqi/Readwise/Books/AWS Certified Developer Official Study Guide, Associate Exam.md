@@ -6,7 +6,7 @@
 - Author: [[Nick Alteen]]
 - Full Title: AWS Certified Developer Official Study Guide, Associate Exam
 - Category: #books
-- Document Tags: [[aws]] 
+- Document Tags: [[AWS]] 
 - Summary: The AWS exam has been updated. Your study guide should be, too.The AWS Certified Developer Official Study Guide–Associate Exam is your ultimate preparation resource for the latest exam! Covering all exam objectives, this invaluable resource puts a team of AWS experts at your side with expert guidance, clear explanations, and the wisdom of experience with AWS best practices. You’ll master core services and basic architecture, and equip yourself to develop, deploy, and debug cloud-based applications using AWS. The AWS Developer certification is earned by those who demonstrate the technical knowledge and skill associated with best practices for building secure, reliable cloud-based applications using AWS technology. This book is your official exam prep companion, providing everything you need to know to pass with flying colors.Study the AWS Certified Developer Exam objectivesGain expert insight on core AWS...
 
 ## Highlights
