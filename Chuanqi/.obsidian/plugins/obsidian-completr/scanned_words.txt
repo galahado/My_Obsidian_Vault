@@ -27860,6 +27860,7 @@ Absorb
 ASVAB
 Android
 Apostle
+Asimov
 Full
 Filter
 FlateDecode
@@ -40864,6 +40865,10 @@ Firehose
 Fabric
 Fleets
 FiRS
+Foundation
+FOUNDATIONFOUNDATION
+FOUNDATIONFORWARD
+FOUNDATIONFor
 Title
 The
 There
@@ -80231,6 +80236,11 @@ beard
 bars
 biblical
 benefit
+blend
+bundle
+barbarism
+bleak
+beacon
 Summary
 Sun
 Spot
@@ -93525,6 +93535,7 @@ Sorry
 Saul
 Such
 Syria
+Seldon
 Highlights
 His
 HotSpot
@@ -106210,6 +106221,8 @@ HBase
 Hours
 HnkJ
 HvsY
+Hugo
+Hari
 WSJ
 Wf
 WG
@@ -159353,6 +159366,7 @@ impart
 industrialization
 intimately
 inspiring
+ignorance
 taking
 to
 tax
@@ -172535,6 +172549,9 @@ taste
 thirst
 treatments
 transformations
+twelve
+thousand
+thirty
 steps
 support
 scolded
@@ -185930,6 +185947,8 @@ spine
 spirits
 soil
 skeptical
+supreme
+scientists
 prevent
 partnerships
 play
@@ -198643,6 +198662,8 @@ procedure
 palpably
 possibility
 pars
+psychohistory
+preserve
 dodging
 domestic
 decade
@@ -211981,6 +212002,8 @@ disseminate
 disciplined
 despondency
 dejection
+daring
+dying
 collect
 clean
 compliance
@@ -225389,6 +225412,7 @@ constructions
 collected
 centuries
 contributions
+comprise
 over
 ongoing
 or
@@ -264290,6 +264314,9 @@ gown
 gaze
 guests
 guiding
+gathers
+galaxy
+generations
 with
 winning
 wives
@@ -275468,6 +275495,7 @@ wonderful
 whom
 wiped
 widely
+warfare
 Looks
 Learning
 Linearized
@@ -290923,6 +290951,7 @@ Goggins
 Grateful
 Grade
 German
+Galactic
 review
 reviews
 retrieval
@@ -299062,6 +299091,8 @@ radiation
 relations
 reasoning
 reducible
+ruled
+revolutionary
 It
 Instead
 In
@@ -307154,6 +307185,7 @@ Inspiration
 IOPS
 Initialized
 Interpretations
+Isaac
 for
 feel
 feels
@@ -315115,6 +315147,7 @@ famous
 followers
 fractures
 fourth
+fiction
 maintaining
 massed
 may
@@ -323174,6 +323207,8 @@ monastic
 monks
 mathematical
 mathematics
+masterworks
+minds
 Rereading
 Retrieval
 Readers
@@ -346998,6 +347033,8 @@ noted
 namesake
 nevertheless
 noticeably
+novels
+nonstop
 quizzing
 quickly
 quick
@@ -370649,6 +370686,7 @@ humble
 hands
 honor
 handiwork
+humanity
 Kentucky
 Kx
 Ki
@@ -385904,6 +385942,8 @@ Nkmm
 Novel
 Nous
 Nothing
+Novels
+Named
 urgent
 used
 utilize
@@ -394021,6 +394061,8 @@ unwell
 unforgettable
 ultimately
 undergo
+unquestionably
+unsurpassed
 yields
 your
 you
@@ -417596,6 +417638,7 @@ vote
 vital
 vitality
 vertebra
+volumes
 Elaboration
 Ez
 EW
@@ -425694,6 +425737,9 @@ Empire
 Even
 Emily
 Experiences
+EMPIRESECOND
+EDGEFOUNDATION
+EARTHPRELUDE
 Putting
 People
 Prist
