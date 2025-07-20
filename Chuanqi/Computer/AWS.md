@@ -860,7 +860,7 @@
         - usage→fully managed ML service to build apps with real-time personalized recommendations
     - Textract 
         - Automatically extracts text, handwriting, and data from any scanned documents using AI and ML
--  Application Integrat ion 
+-  Application Integration 
     - Kinesis Data Firehose 
         - usage→It is designed to ingest streaming data and load it into specified destinations.
         - can be integrated with Lambda functions?→You can write Lambda functions and integrate it with Data Firehose to request additional, customized processing of the data before it is sent downstream. However, this integration is primarily used for stream processing and not the actual consumption of the data stream.  

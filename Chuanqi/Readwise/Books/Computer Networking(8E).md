@@ -14,6 +14,7 @@
 #### 1.3 The Network Core 
 ##### 1.3.1 Packet Switching
 - Most packet switches use store-and-forward transmission at the inputs to the links. Store-and-forward transmission means that the packet switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link. ([View Highlight](https://read.readwise.io/read/01k0g04g4hbs5ryhq8e9kbzpwj))
+
 - Each packet switch has multiple links attached to it. For each attached link, the packet switch has an output buffer (also called an output queue), which stores packets that the router is about to send into that link. ([View Highlight](https://read.readwise.io/read/01k0h43pa642pxc600tgb2pby2))
 
 - Thus, in addition to the store-and-forward delays, packets suffer output buffer queuing delays. ([View Highlight](https://read.readwise.io/read/01k0h4kq525ypbt5tjy0khp8n8))
