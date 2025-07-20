@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "60",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 21221968,
-  "currentSyncStatusID": 21256977,
+  "lastSavedStatusID": 21256977,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "46755902",
@@ -28,7 +28,6 @@
     "49393499",
     "46896246",
     "46348623",
-    "41486436",
     "43773999",
     "43773598",
     "44867642",
@@ -91,7 +90,8 @@
     "Readwise/Books/Linear Algebra Done Right(4E).md": "52887036",
     "Readwise/Articles/Computer Systems(3E).md": "44761426",
     "Readwise/Books/The Catcher in the Rye.md": "53156278",
-    "Readwise/Articles/Mathematics for Machine Learning.md": "50147605"
+    "Readwise/Articles/Mathematics for Machine Learning.md": "50147605",
+    "Readwise/Articles/Computer Networking(8E).md": "41486436"
   },
   "reimportShowConfirmation": true
 }
