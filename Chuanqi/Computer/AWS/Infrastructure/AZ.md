@@ -1,0 +1,4 @@
+---
+aliases:
+  - Availability Zone
+---

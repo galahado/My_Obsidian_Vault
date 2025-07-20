@@ -1,1 +1,8 @@
-a geographical area, has at least 2 [AZ](AWS/Infrastructure/AZ.md), but can have 5 or more
+---
+tags:
+  - anki/Profession/AWS
+---
+
+| Region                                                             |
+| ------------------------------------------------------------------ |
+| a geographical area, has at least 2 [[AZ]], but can have 5 or more |
