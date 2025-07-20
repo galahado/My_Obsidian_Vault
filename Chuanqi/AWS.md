@@ -1,8 +1,4 @@
 -  Infrastructure 
-    - Global Infrastructure
-        - ![](https://remnote-user-data.s3.amazonaws.com/faDIzuU19hLGP1JLaZ2rIxkaNiY7meLn_h039c9lhsq10XHEZwWZyluYih8kglhLlPUYX_0UACJR9shNVNTdeNjdkqQJXk_lrmVVQK3oG1jGT3EdqRIJrxHSki9I1feT.png)
-    - Region
-        - meaning→a geographical area, has at least 2 [AZ](AWS/Infrastructure/AZ.md), but can have 5 or more
     - AZ
         - meaning→Availability Zone
         - How many availability zones does each region have?→usually 3, min is 3, max is 6
@@ -619,7 +615,7 @@
             - private
             - transit
     - Direct Connect Gateway
-        - usage→used to connect multiple [VPC ](AWS/Network/VPC.md)s in any [Region](AWS/Infrastructure/Region.md) to connect to [Direct Connect](AWS/Network/Direct%20Connect.md) via [Virtual Private Gateway](AWS/Network/VPN/Virtual%20Private%20Gateway.md)
+        - usage→used to connect multiple [VPC ](AWS/Network/VPC.md)s in any [Region](Region.md) to connect to [Direct Connect](AWS/Network/Direct%20Connect.md) via [Virtual Private Gateway](AWS/Network/VPN/Virtual%20Private%20Gateway.md)
         - 
     - Virtual Networking Card
         - 3 types >>>
@@ -673,7 +669,7 @@
             - ![](https://remnote-user-data.s3.amazonaws.com/CejGebsvNwESFp5wldgahYKeg8bYNE_vVcaXY9N64BOy6PnLS59aJsCa8E-ZEFgA-T20Bhyc4nVopoHc5_pv4lkT-Z1nZtaw8_R29nnuwwZJCqurJLUKW9k_rx83AlM2.png)
             - ![](https://remnote-user-data.s3.amazonaws.com/wKci2iW5Y0-TFZDJDxBmMjmhRVWPwyrECMOyIZ85X6UJnO7PwOfeRhal9o1TDgQpCucfPQTMoH3KXlDZR1Etf0iOio0fxkdZAx_AKbJGKw7IyiUZN6MteqgNTlmiaqRO.png)
     - Elastic IP
-        - used in only one [Region](AWS/Infrastructure/Region.md)?→Yes
+        - used in only one [Region](Region.md)?→Yes
         - can be transferred from one account to another?→Yes
 -  Database
     - RDS
@@ -708,7 +704,7 @@
             - RDS: 5
             - Aurora: 15
         - asynchronously or synchronously?→asynchronously. So, there is a delay
-        - is there charge replicating data across [Region](AWS/Infrastructure/Region.md)?→Yes
+        - is there charge replicating data across [Region](Region.md)?→Yes
         - if the master database is not encrypted what about the replicas?→must be not encrypted 
         - if the master database is encrypted what about the replicas?→must be encrypted
         - read replica vs. multi-AZ vs. multi-region >>>
