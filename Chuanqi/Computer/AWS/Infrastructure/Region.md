@@ -1,6 +1,6 @@
 ---
 tags:
-  - anki/Profession/AWS
+  - "#anki/Profession/AWS"
 ---
 
 | Region                                                             |
