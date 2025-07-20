@@ -23,18 +23,11 @@
 
 - More specifically, each router has a forwarding table that maps destination addresses (or portions of the destination addresses) to that router’s outbound links. ([View Highlight](https://read.readwise.io/read/01k0h510b5vd24t7h2zqsphrg8))
 
-- But to whet your appetite here, we’ll note now that the Internet has a number of special routing protocols that are used to auto- matically set the forwarding tables. ([View Highlight](https://read.readwise.io/read/01k0h52ppkh4dmggnay9hs4gf3))
+- But to whet your appetite here, we’ll note now that the Internet has a number of special routing protocols that are used to automatically set the forwarding tables. ([View Highlight](https://read.readwise.io/read/01k0h52ppkh4dmggnay9hs4gf3))
 
 - There are two fundamental approaches to moving data through a network of links and switches: circuit switching and packet switching. Having covered packet- switched networks in the previous subsection, we now turn our attention to circuit- switched networks. ([View Highlight](https://read.readwise.io/read/01k0h5p4e61ar0ksqes3yh35xt))
 
-- Traditional telephone networks are examples of circuit-switched networks.
-  Consider what happens ­
-  when one person wants to send information (voice or facsimile)
-  to another over a telephone network. Before the sender can send the information,
-  the network must establish a connection between the sender and the receiver. This
-  is a bona fide connection for which the switches on the path between the sender and
-  receiver maintain connection state for that connection. In the jargon of telephony,
-  this connection is called a circuit. ([View Highlight](https://read.readwise.io/read/01k0mp72dw203t8zpc8qz6njjc))
+- Traditional telephone networks are examples of circuit-switched networks. Consider what happens­ when one person wants to send information (voice or facsimile) to another over a telephone network. Before the sender can send the information, the network must establish a connection between the sender and the receiver. This is a bona fide connection for which the switches on the path between the sender and receiver maintain connection state for that connection. In the jargon of telephony, this connection is called a circuit. ([View Highlight](https://read.readwise.io/read/01k0mp72dw203t8zpc8qz6njjc))
 
-- Figure 1.13 illustrates a circuit-switched network. In this network, the four circuit switches are interconnected by four links. Each of these links has four cir- cuits, so that each link can support four simultaneous connections. The hosts (for example, PCs and workstations) are each ([View Highlight](https://read.readwise.io/read/01k0mpbgf7z18kwhp2ebg0znnh))
+- Figure 1.13 illustrates a circuit-switched network. In this network, the four circuit switches are interconnected by four links. Each of these links has four circuits, so that each link can support four simultaneous connections. The hosts (for example, PCs and workstations) are each ([View Highlight](https://read.readwise.io/read/01k0mpbgf7z18kwhp2ebg0znnh))
 
