@@ -13,4 +13,8 @@
 - The writing is clear, the ideas transformative, and the setup fabulous ([View Highlight](https://read.readwise.io/read/01jnzwwb2w14v8bxyqn4m0azee))
     - Tags: [[words]] 
     - Note: transformative (adjective)(transform): causing significant change or improvement; capable of altering one’s perspective or behavior 变革性的 🌟🔄
+## New highlights added July 23, 2025 at 6:04 AM
+- When I first read the manuscript for Your Brain at Work, I asked David Rock if I could share it with my wife and two teenagers. ([View Highlight](https://read.readwise.io/read/01k0sdqdwd5fa0pxayz12nbtgn))
+
+- After watching Emily or Paul go through a challenge in each scene, you get to find out what is going on inside her or his brain that is making life so difficult, and to hear directly from the neuroscientists I interviewed and from other relevant studies. ([View Highlight](https://read.readwise.io/read/01k0sdvt4whsshankc8j1tckdw))
 

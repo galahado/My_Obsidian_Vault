@@ -35,3 +35,5 @@
     - Tags: [[words]] 
     - Note: chiffonier (noun)(chiffonier): a tall, narrow chest of drawers, often with a mirror on top 衣橱式高柜，通常带有镜子 🗄️🪞
 
+- “Who’s Stradlater’s date?” he said. He was always keeping tabs on who Stradlater was dating, even though he hated Stradlater’s guts. ([View Highlight](https://read.readwise.io/read/01k0sejrz3femmq1m349h846vm))
+
