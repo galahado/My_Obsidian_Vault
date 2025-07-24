@@ -967,7 +967,6 @@
         Warm Standby
         Multi Site Approach
         ![](https://remnote-user-data.s3.amazonaws.com/cQn2d-xQEfw73e9IoF9LYJzF1hbzHfBCUrAGsGzjRAmqhx3ydGjSCc4l0TFqFBGyQX6tm3fW1yd1RKFKWDTVFUNFEuc5baByTHGBSyRdcF4SNknv3CVc0XCf8Nh4fJbg.png)
-    
  Other 
     Amplify  
         usage→A set of tools and services that helps you develop and deploy scalable full stack web and mobile applications  
