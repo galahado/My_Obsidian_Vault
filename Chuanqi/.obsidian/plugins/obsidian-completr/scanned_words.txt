@@ -225891,6 +225891,7 @@ cbur
 cCiw
 cxsr
 cpxf
+card
 over
 ongoing
 or
