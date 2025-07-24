@@ -332,3 +332,8 @@
     - Note: stomped (verb)(stomp): to step heavily or forcefully; to strike down with force 用力踩踏的 🥾💥
       ---
       pocked (adjective)(pock): marked by small holes or dents; damaged or pitted 受到小孔或凹痕的标记; 受损或凹陷的 🕳️🛤️
+## New highlights added July 24, 2025 at 5:23 AM
+- in the early 1980s, it was not yet completely ghetto as fuck ([View Highlight](https://read.readwise.io/read/01k0vc5rdp08bs2e3p4efyjxm4))
+    - Tags: [[words]] 
+    - Note: ghetto (adjective)(ghetto): characterized by poverty, social isolation, and often poor living conditions in a segregated urban area 贫民区的，生活条件差的 🏚️🚧
+

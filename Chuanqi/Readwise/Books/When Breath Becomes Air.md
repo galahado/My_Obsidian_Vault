@@ -123,4 +123,12 @@
 - V’s surgery, chemotherapy, and radiation treatments were trying, but a success. ([View Highlight](https://read.readwise.io/read/01jsemxnnzfqw4xs1njeszn7hg))
     - Tags: [[words]] 
     - Note: trying (adjective)(try): difficult or challenging; 耗费精力的 😓💪
+## New highlights added July 24, 2025 at 5:23 AM
+- You can’t be sloppy, and you can’t be slow. ([View Highlight](https://read.readwise.io/read/01k0vr2b6ee7rapjsj533dnb4z))
+    - Tags: [[words]] 
+    - Note: sloppy (adjective)(sloppy): done carelessly or without attention to detail 马虎的，草率的 🩺🩸
+
+- The funny thing about time in the OR, whether you race frenetically or proceed steadily, is that you have no sense of it passing. ([View Highlight](https://read.readwise.io/read/01k0wvtdv5x8zr83ctcxg3t5mg))
+    - Tags: [[words]] 
+    - Note: frenetically (adverb)(frenetic): in a fast and energetic, often uncontrolled or chaotic manner 狂热地，疯狂地 ⚡️🤪
 

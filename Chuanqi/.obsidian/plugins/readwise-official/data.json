@@ -3,10 +3,10 @@
   "readwiseDir": "Readwise",
   "frequency": "60",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 21298144,
-  "currentSyncStatusID": 21312626,
+  "lastSavedStatusID": 21312626,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "46755902",
@@ -73,7 +73,6 @@
     "49040563",
     "47915432",
     "46201737",
-    "46930537",
     "52224820",
     "51212356"
   ],
@@ -93,7 +92,8 @@
     "Readwise/Books/Computer Systems(3E).md": "44761426",
     "Readwise/Articles/Linear Algebra Done Right(4E).md": "52887036",
     "Readwise/Articles/Computer Networking(8E).md": "41486436",
-    "Readwise/Books/Your Brain at Work.md": "49512324"
+    "Readwise/Books/Your Brain at Work.md": "49512324",
+    "Readwise/Books/When Breath Becomes Air.md": "46930537"
   },
   "reimportShowConfirmation": true
 }
